@@ -1,0 +1,9 @@
+field_id,field_no,field_label,field_definition,n_value,n_quote,n_location,n_agree,n_minor,n_conflict,pct_contributing,pct_all_records
+SA.1,1,Help-seeking patterns,"By age-band, gender, urban/rural, digital-first vs in-person.",1,1,1,63,0,2,16.666666666666668,0.31347962382445144
+SA.2,2,Stigma and disclosure norms,"Family, peers, community; device-sharing implications.",2,2,2,51,2,33,16.666666666666668,0.31347962382445144
+SA.3,3,Language coverage,"English, isiZulu, isiXhosa, Afrikaans, Sesotho; code-switching.",2,2,2,46,1,47,16.666666666666668,0.31347962382445144
+SA.4,4,Gender-specific drivers of distress,"GBV, early union, menstrual stigma, restricted schooling.",3,3,3,61,1,4,16.666666666666668,0.31347962382445144
+SA.5,5,Service-availability constraints,"Referral capacity, waitlists, cost, geographic access.",2,2,2,39,0,79,16.666666666666668,0.31347962382445144
+SA.6,6,Prior digital MH deployments in SA,"e.g., Chommie, STARS; lessons on adaptation and engagement.",4,4,4,60,1,6,16.666666666666668,0.31347962382445144
+SA.7,7,Regulatory / policy context,"SAHPRA, POPIA, national mental health policy.",0,0,0,57,0,25,16.666666666666668,0.31347962382445144
+SA.8,8,Reading age / literacy,Population estimates; recommended target.,1,1,1,55,0,15,16.666666666666668,0.31347962382445144

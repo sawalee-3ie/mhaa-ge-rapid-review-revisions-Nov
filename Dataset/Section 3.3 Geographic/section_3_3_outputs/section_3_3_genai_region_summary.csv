@@ -1,0 +1,9 @@
+evidence_group,region_group,n,percent_within_group
+GenAI-specific evidence (keyword-derived),South Africa,2,0.017699115044247787
+GenAI-specific evidence (keyword-derived),Other SSA,5,0.04424778761061947
+GenAI-specific evidence (keyword-derived),Other L&MIC,21,0.18584070796460178
+GenAI-specific evidence (keyword-derived),HIC / global,85,0.7522123893805309
+Other evidence,South Africa,4,0.019417475728155338
+Other evidence,Other SSA,10,0.04854368932038835
+Other evidence,Other L&MIC,38,0.18446601941747573
+Other evidence,HIC / global,154,0.7475728155339806

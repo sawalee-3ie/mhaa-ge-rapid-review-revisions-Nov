@@ -1,0 +1,18 @@
+SECTION 3.2 ANALYSIS COMPLETE
+
+Analytical records: 319
+Primary empirical records: 152
+Review-level records: 141
+Methods/framework/regulatory records: 20
+Other non-empirical/unclear records: 6
+Publication years: 2016-2026
+Records including ages 10-19: 81
+Records including ages 10-24: 120
+Explicit GenAI records: 147
+Primary empirical GenAI records: 70
+All records direct on SA + 10-19 + GenAI: 2
+All records direct on SA + 10-24 + GenAI: 3
+Primary empirical direct on SA + 10-19 + GenAI: 0
+Primary empirical direct on SA + 10-24 + GenAI: 1
+
+Review the geography, GenAI/directness, population and sponsor audit files before using these preliminary counts in the final report.

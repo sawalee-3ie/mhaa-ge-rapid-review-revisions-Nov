@@ -1,0 +1,7 @@
+metric,numerator,denominator,interpretation,proportion,percent
+All records: South Africa + ages 10-19 + explicit GenAI,2,319,Includes review-level records flagged as covering South African evidence,0.006269592476489028,0.6%
+All records: South Africa + ages 10-24 + explicit GenAI,3,319,Uses the broader youth definition and includes review-level coverage,0.009404388714733543,0.9%
+Primary empirical only: South Africa + ages 10-19 + explicit GenAI,0,152,Strictest estimate of direct evidence for adolescents,0,0.0%
+Primary empirical only: South Africa + ages 10-24 + explicit GenAI,1,152,Broader youth estimate among primary empirical records,0.006578947368421052,0.7%
+All records: explicit GenAI + explicit single-session format,40,319,Keyword-derived and requires manual verification,0.12539184952978055,12.5%
+Primary empirical only: explicit GenAI + explicit single-session format,26,152,Closest intervention-level evidence to a GenAI single-session tool,0.17105263157894737,17.1%

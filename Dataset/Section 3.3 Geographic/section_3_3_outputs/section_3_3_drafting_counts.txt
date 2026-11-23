@@ -1,0 +1,6 @@
+Analytical records: 319.
+Mutually exclusive regional classification based on baseline flags: South Africa 6; other SSA 15; other L&MIC 59; HIC/global 239.
+Country mapping: 276 records mapped to at least one country; 43 had no mappable country.
+Keyword-derived GenAI classification: 113 records. Review section_3_3_genai_classification_for_review.csv before reporting this count.
+Current substantive RQ 1c denominator: 66 records.
+Country-level map counts and mutually exclusive regional table counts answer different questions and should not be summed or directly compared.

@@ -1,0 +1,320 @@
+record_id,title,country_raw,country_for_map,parsed_iso3,mapping_status
+25CCVACX,Challenges in Implementing a Mobile AI Chatbot Intervention for Depression Among Youth on Psychiatric Waiting Lists: a Randomized Control Study Termination Report,JPN,JPN,JPN,Mapped
+27J4CPTA,"Mental Distress, Label Avoidance, and Use of a Mental Health Chatbot: Results From a US Survey.",USA,USA,USA,Mapped
+2ERB5LMK,Large Language Models for Mental Health Applications: Systematic Review.,GBR,GBR,GBR,Mapped
+2FADVQMR,Providers of relief in distress: RAG-based LLMs as situation and intent-aware assistants.,USA,USA,USA,Mapped
+2HV2GVAT,Chatbot-Delivered Interventions for Improving Mental Health Among Young People: A Systematic Review and Meta-Analysis.,"Multi-country (12 countries); most frequent: USA, CHN, NZL","Multi-country (12 countries); most frequent: USA, CHN, NZL","CHN, NZL, USA",Mapped
+2HWTYAYN,"Development, system design, safety, and performance metrics of a conversational agent for reducing depressive and anxious symptoms based on a large language model: The MHAI study.",PER,PER,PER,Mapped
+2JJ6TMFW,Feasibility of combining spatial computing and AI for mental health support in anxiety and depression.,USA,USA,USA,Mapped
+2JN9GMPW,BetterMood: A human-like AI counseling service for adolescents and young adults.,KOR,KOR,KOR,Mapped
+2KLFXFAH,What patients want from healthcare chatbots: insights from a mixed-methods study.,USA,USA,USA,Mapped
+2VVVJMPU,Prevention of Postpartum Depression via a Digital ACT-Based Intervention: Evaluation of a Prototype Using Multiple Case Studies.,ITA,ITA,ITA,Mapped
+2XH5HFH9,"Mental Health Chatbot for Young Adults With Depressive Symptoms During the COVID-19 Pandemic: single-Blind, Three-Arm Randomized Controlled Trial",CHN,CHN,CHN,Mapped
+377BHQCQ,A relational agent for treating substance use in adults: a randomized controlled trial with a psychoeducational comparator,USA,USA,USA,Mapped
+38ZY7XPB,Comparing the acceptability and quality of intervention modalities for suicidality in the emergency department: Randomized feasibility trial. [References].,USA,USA,USA,Mapped
+3C49MIHM,Emergence of Artificial Intelligence Art Therapies (AIATs) in Mental Health Care: A Systematic Review.,"USA, CHN, NLD, SAU, JPN, ITA, CHE, GBR, MYS","USA, CHN, NLD, SAU, JPN, ITA, CHE, GBR, MYS","CHE, CHN, GBR, ITA, JPN, MYS, NLD, SAU, USA",Mapped
+3C7P3Q3D,The Impact of Chatbots on Adolescent Mental Health Development: A Comprehensive Literature Review,CHN,CHN,CHN,Mapped
+3IJ2RMCK,Systematic review of artificial intelligence enabled psychological interventions for depression and anxiety: A comprehensive analysis.,NA,NA,NA,Country not reported
+3KU3EF5S,Artificial intelligence as a predictive tool for mental health status: Insights from a systematic review and meta-analysis.,"Multi-country (USA, ARG, JPN, UKR, CHN)","Multi-country (USA, ARG, JPN, UKR, CHN)","ARG, CHN, JPN, UKR, USA",Mapped
+3NFC3XS4,A Therapeutic Relational Agent for Reducing Problematic Substance Use (Woebot): development and Usability Study,USA,USA,USA,Mapped
+3P65BWFH,Artificial intelligence-based chatbots to combat COVID-19 pandemic: a scoping review.,IRN,IRN,IRN,Mapped
+3RSP6W5M,Overview of chatbot usage on mental health: a scoping review.,IDN,IDN,IDN,Mapped
+3UV4CWX7,"Digital companionship: The interplay of conversational AI, loneliness, social anxiety, and quality of life among young adults.",IND,IND,IND,Mapped
+3XAMLT8Y,Exploring the Role of App Features in Providing Continuity of Care to Users on a Digital Mental Health Platform (Wysa): Retrospective Mixed Methods Observational Study.,global (no specific country; anonymized global users),global (no specific country; anonymized global users),NA,No mappable country parsed
+3YYJ3T9I,Queering Artificial Intelligence: The Impact of Generative Conversational AI on the Queer Community. A Scoping Review.,"BRA, HKG, USA, ITA, CAN, ISR","BRA, HKG, USA, ITA, CAN, ISR","BRA, CAN, HKG, ISR, ITA, USA",Mapped
+42ZSWKS6,Scaffolding the mastery of healthy behaviors with Fittle+ systems: Evidence-based interventions and theory. [References].,NA,NA,NA,Country not reported
+4C99DDDW,"What should be included in a digital mental health intervention, based on solution-focused therapy, for young people who self-harm? A qualitative exploration of young people and clinicians' views.",GBR,GBR,GBR,Mapped
+4FAWMN4Q,Do Anthropomorphic Chatbots Increase Counseling Satisfaction and Reuse Intention? The Moderated Mediation of Social Rapport and Social Anxiety.,USA,USA,USA,Mapped
+4JRK4MHZ,Human-human vs human-AI therapy: An empirical study. [References].,"ARE, SAU","ARE, SAU","ARE, SAU",Mapped
+4RH26NFL,Designing Psychologically Grounded Artificial Intelligence for Supporting Bystander-Based Cyberaggression Intervention: Mixed Methods Exploratory Study.,USA,USA,USA,Mapped
+4VSC5J7F,Conversational Agents in the Treatment of Mental Health Problems: Mixed-Method Systematic Review.,"GBR, USA, SWE, JPN","GBR, USA, SWE, JPN","GBR, JPN, SWE, USA",Mapped
+4YX6ENHY,The Effectiveness and Feasibility of Conversational Agents in Supporting Care for Patients With Cancer: Systematic Review and Meta-Analysis.,CHN,CHN,CHN,Mapped
+52K5G2XE,Chatbots and Conversational Agents in Mental Health: A Review of the Psychiatric Landscape.,USA,USA,USA,Mapped
+589B53XW,Contextual AI Journaling: Integrating LLM and Time Series Behavioral Sensing Technology to Promote Self-Reflection and Well-being using the MindScape App.,USA,USA,USA,Mapped
+5CFMCI3V,"Opportunities, Requirements, and Risks of a Student Mental Health Chatbot: A Qualitative User-Centered, Multi-Method Approach.",CHE,CHE,CHE,Mapped
+5DBWEXIN,Chatbot interventions for improving mental health among people in Asia: a systematic review and meta-analysis of randomised controlled trials.,NA,NA,NA,Country not reported
+5GDK82LA,"Building EVA (Educacion, Vinculacion, y Autoayuda): Tutorial for the Development of a Digital Mental Health Chatbot for Adolescents Living With HIV.",PER,PER,PER,Mapped
+5RIYFHZJ,From needs assessment to usability testing: evaluating the AinoAid TM chatbot for domestic violence support.,"AUT,DEU,FIN,FRA,ESP","AUT,DEU,FIN,FRA,ESP","AUT, DEU, ESP, FIN, FRA",Mapped
+5WCF85I8,Chatbots to Support Mental Wellbeing of People Living in Rural Areas: Can User Groups Contribute to Co-design?.,"GBR, IRL, FIN, SWE","GBR, IRL, FIN, SWE","FIN, GBR, IRL, SWE",Mapped
+5ZTTWPVP,AI in Mental Health: Transforming Diagnosis and Management of Depression and Anxiety.,"PAK, BGD","PAK, BGD","BGD, PAK",Mapped
+6283I4FE,"Insights from fifteen years of real-world development, testing and implementation of youth digital mental health interventions. [Review]",AUS,AUS,AUS,Mapped
+646VG48B,Supporting Student Mental Health With the Safespace Generative AI Chatbot: Mixed Methods Feasibility Study.,CHE,CHE,CHE,Mapped
+64UJPSUM,Digital Conversational Agents for the Mental Health of Treatment-Seeking Youth: Scoping Review,"USA, DEU, AUS, THA, JPN, HKG","USA, DEU, AUS, THA, JPN, HKG","AUS, DEU, HKG, JPN, THA, USA",Mapped
+66DDVZZC,The therapeutic effectiveness of artificial intelligence-based chatbots in alleviation of depressive and anxiety symptoms in short-course treatments: A systematic review and meta-analysis.,CHN,CHN,CHN,Mapped
+68BAKAR9,User-Centered Development of a Chatbot for Diverse Adolescents at High Risk for Eating Disorders.,USA,USA,USA,Mapped
+69UVVM98,Effectiveness of AI-based interventions in workplace mental health: a systematic review and narrative synthesis,"ESP, AUS, USA, KOR, ITA, JPN, TWN, MWI","ESP, AUS, USA, KOR, ITA, JPN, TWN, MWI","AUS, ESP, ITA, JPN, KOR, MWI, TWN, USA",Mapped
+6GMENLWQ,Personalization variables in digital mental health interventions for depression and anxiety in adolescents and youth: a scoping review.,"USA, AUS, GBR, NLD, CAN, DEU, FIN, CHN, BEL, NZL, IDN, IND, COL, ARE, BRA","USA, AUS, GBR, NLD, CAN, DEU, FIN, CHN, BEL, NZL, IDN, IND, COL, ARE, BRA","ARE, AUS, BEL, BRA, CAN, CHN, COL, DEU, FIN, GBR, IDN, IND, NLD, NZL, USA",Mapped
+6L4H3K87,Assessing acceptance and feasibility of a conversational agent to support individuals living with post-traumatic stress disorder.,USA,USA,USA,Mapped
+6PYA29UE,A staged approach to the development of an embodied conversational agent to support wellbeing after injury. [References].,AUS,AUS,AUS,Mapped
+6Q8ILN8X,Effectiveness of mental health chatbots in depression and anxiety for adolescents and young adults: a meta-analysis of randomized controlled trials,"USA, PAK","USA, PAK","PAK, USA",Mapped
+6QGYF585,Artificial Intelligence-Based Mobile Phone Apps for Child Mental Health: Comprehensive Review and Content Analysis. [Review],NA,NA,NA,Country not reported
+6R7XL8AC,ChatGPT as a psychotherapist for anxiety disorders: an empirical study with anxiety patients,SAU,SAU,SAU,Mapped
+6SV6JIS8,Learning Through Simulation: Counselor Trainees' Interactions with ChatGPT as a Client.,USA,USA,USA,Mapped
+6VS2AJPZ,Evaluating a Digital Mental Health Intervention (Wysa) for Workers' Compensation Claimants: Pilot Feasibility Study.,USA,USA,USA,Mapped
+6XA9SS8X,Effectiveness of a Fully Automated Mobile Therapeutic Versus a General Chatbot in Reducing Depression and Anxiety and Improving Well-Being: feasibility Randomized Controlled Trial,"CZE, USA, CAN, GBR, IRL, AUS","CZE, USA, CAN, GBR, IRL, AUS","AUS, CAN, CZE, GBR, IRL, USA",Mapped
+74BYEI69,"Exploring Young Adults' Views About Aroha, a Chatbot for Stress Associated With the COVID-19 Pandemic: Interview Study Among Students.",NZL,NZL,NZL,Mapped
+74FY9KPM,The Application and Ethical Implication of Generative AI in Mental Health: Systematic Review.,CHN,CHN,CHN,Mapped
+7BHMLH8Y,Leveraging Large Language Models for Simulated Psychotherapy Client Interactions: Development and Usability Study of Client101.,AUS,AUS,AUS,Mapped
+7D8SAWLL,Feasibility and acceptability of the MentiParent AI chatbot for training parental reflective functioning.,"GBR, ISR","GBR, ISR","GBR, ISR",Mapped
+7DCEU7XD,Utilizing User Preferences in Designing the AGILE (Accelerating Access to Gender-Based Violence Information and Services Leveraging on Technology Enhanced) Chatbot.,KEN,KEN,KEN,Mapped
+7EQQRDQL,Mobile health applications for enhancing mental health access and outcomes among adolescents and young people living with HIV: a systematic review,"ETH, KEN, IDN, VNM, IRN, MYS, ESP, POL, GBR, USA, AUS","ETH, KEN, IDN, VNM, IRN, MYS, ESP, POL, GBR, USA, AUS","AUS, ESP, ETH, GBR, IDN, IRN, KEN, MYS, POL, USA, VNM",Mapped
+7GU9HBM2,Using Artificial Intelligence to Enhance Ongoing Psychological Interventions for Emotional Problems in Real- or Close to Real-Time: A Systematic Review.,"USA, GBR, DEU, CHE, KOR, KEN, CHN","USA, GBR, DEU, CHE, KOR, KEN, CHN","CHE, CHN, DEU, GBR, KEN, KOR, USA",Mapped
+7VNDYCAU,"Feasibility, usability, and promise of a parent management training using a generative artificial intelligence platform. [References].",CHL,CHL,CHL,Mapped
+7WQF7WT9,Attrition in Conversational Agent-Delivered Mental Health Interventions: Systematic Review and Meta-Analysis.,NA,NA,NA,Country not reported
+7YJYAYL3,A mobile messaging-based conversational agent-led stress mindset intervention for New Zealand small-to-medium-sized enterprise owner-managers: Effectiveness and acceptability study. [References].,NZL,NZL,NZL,Mapped
+82D4U8FK,Do generative AI chatbots increase psychosis risk? [References].,USA,USA,USA,Mapped
+83SDDLGI,Evaluation of the Current State of Chatbots for Digital Health: Scoping Review.,"CAN, USA","CAN, USA","CAN, USA",Mapped
+8E563H5G,The Digital Mirror: Clinical Potentials and Relational Risks of Generative AI in Mental Health Interventions. [Review],ITA,ITA,ITA,Mapped
+8I7Q7PR5,"Efficacy, User Engagement, and Acceptability of Cognitive Behavioral Therapy-Oriented Psychological Chatbots for Adults With Depressive and/or Anxiety Symptoms: Systematic Review and Meta-Analysis of Randomized Controlled Trials. [Review]","CHN, USA","CHN, USA","CHN, USA",Mapped
+8IBB8KDE,Examining a brief web and longitudinal app-based intervention [Wysa] for mental health support in Singapore during the COVID-19 pandemic: mixed-methods retrospective observational study.,SGP,SGP,SGP,Mapped
+8J5AIPW7,Mental health chatbots and their technical features: A systematic review of reviews and a thematic analysis,IRN,IRN,IRN,Mapped
+8KH6BSUU,Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial,USA,USA,USA,Mapped
+8MMZ8CAH,Digital Mental Health Intervention Plus Usual Care Compared With Usual Care Only and Usual Care Plus In-Person Psychological Counseling for Orthopedic Patients With Symptoms of Depression or Anxiety: Cohort Study.,USA,USA,USA,Mapped
+93FR868R,"War, emotions, mental health, and artificial intelligence. [Review]",NA,NA,NA,Country not reported
+97W5SYEZ,An evaluation framework for assessing quality of care & risk in AI psychotherapy.,USA,USA,USA,Mapped
+99FWJ78A,Acceptability of a Conversational Agent-Led Digital Program for Anxiety: Mixed Methods Study of User Perspectives.,GBR,GBR,GBR,Mapped
+9BWCUJXG,"Next-Generation Cognitive-Behavioral Therapy for Depression: Integrating Digital Tools, Teletherapy, and Personalization for Enhanced Mental Health Outcomes.",NA,NA,NA,Country not reported
+9GKQXL2P,Systematic review and meta analysis of chatbots in the management of depressive and anxiety symptoms,NA,NA,NA,Country not reported
+9H53BDY5,"Who Wants to Have an AI Therapist? Acceptance of Using Artificial Intelligence for Mental Health Interventions Among Clinicians, Patients and the General Community.","USA, GBR, CAN","USA, GBR, CAN","CAN, GBR, USA",Mapped
+9J4J8868,Empathic Conversational Agent Platform Designs and Their Evaluation in the Context of Mental Health: Systematic Review.,AUS,AUS,AUS,Mapped
+9RC6BH2P,The utilization of artificial intelligence in mental health.,HRV,HRV,HRV,Mapped
+9U5BYY5U,Neuropsychological Mechanisms Associated with the Effectiveness of AI-Delivered Health Promotion Programs: A Comprehensive Meta-Analysis,GRC,GRC,GRC,Mapped
+9UVL36XT,Assessment of users' acceptability of a mobile-based embodied conversational agent for the prevention and detection of suicidal behaviour.,MEX,MEX,MEX,Mapped
+A4C7CN6S,The Effectiveness of AI Chatbots in Alleviating Mental Distress and Promoting Health Behaviors Among Adolescents and Young Adults: Systematic Review and Meta-Analysis,"ARG, AUT, BRA, CAN, CHN, DEU, HKG, IRL, KOR, POL, ZAF, SWE, CHE, TWN, UKR, GBR, USA","ARG, AUT, BRA, CAN, CHN, DEU, HKG, IRL, KOR, POL, ZAF, SWE, CHE, TWN, UKR, GBR, USA","ARG, AUT, BRA, CAN, CHE, CHN, DEU, GBR, HKG, IRL, KOR, POL, SWE, TWN, UKR, USA, ZAF",Mapped
+A5YED6EZ,Designing an AI chatbot to support child-parent-provider communication in pediatric cancer care.,"USA, KOR","USA, KOR","KOR, USA",Mapped
+A62D5HB2,"Scope, Characteristics, Behavior Change Techniques, and Quality of Conversational Agents for Mental Health and Well-Being: Systematic Assessment of Apps.",SGP,SGP,SGP,Mapped
+A655XJ52,Conversational agents for Children's mental health and mental disorders: A scoping review. [References].,"USA, AUS, KOR, NZL, SGP, ITA, GBR, CHN, ARG","USA, AUS, KOR, NZL, SGP, ITA, GBR, CHN, ARG","ARG, AUS, CHN, GBR, ITA, KOR, NZL, SGP, USA",Mapped
+ACSGUXTI,Exploring the Role of Mobile Apps for Insomnia in Depression: Systematic Review.,TWN,TWN,TWN,Mapped
+AKMNTJMJ,"Use of the Chatbot ""Vivibot"" to Deliver Positive Psychology Skills and Promote Well-Being Among Young People After Cancer Treatment: randomized Controlled Feasibility Trial",NA,NA,NA,Country not reported
+AL74E9FJ,A Chatbot to Support Young People During the COVID-19 Pandemic in New Zealand: Evaluation of the Real-World Rollout of an Open Trial,NZL,NZL,NZL,Mapped
+AM9WHP5K,Conversational agents in physical and psychological symptom management: A systematic review of randomized controlled trials.,CHN,CHN,CHN,Mapped
+AS8WYZE2,An exploration of the user experience of mobile mental health apps using the critical incident technique. [References].,"North America (69%), Canada (10%), and Europe (21%)","North America (69%), Canada (10%), and Europe (21%)","AND, CAN",Mapped
+ASS6IT6V,Current evidence on the efficacy of mental health smartphone apps for symptoms of depression and anxiety. A meta-analysis of 176 randomized controlled trials,NA,NA,NA,Country not reported
+B3BBDFIY,Digital mental health technology: user and public perspectives on identifying and reporting harms,GBR,GBR,GBR,Mapped
+BB7RNVM3,"A Conversational Platform (Okaya) for Multimodal Digital Biomarkers of Fatigue, Cognition, and Mental Health: Feasibility Observational Study.",USA,USA,USA,Mapped
+BBFTECQR,Chatbot-Delivered Psychotherapy for Adults With Depressive and Anxiety Symptoms: A Systematic Review and Meta-Regression.,SGP,SGP,SGP,Mapped
+BCZR8NDB,Chatbots for Well-Being: Exploring the Impact of Artificial Intelligence on Mood Enhancement and Mental Health,PRT,PRT,PRT,Mapped
+BDVCQTZJ,A conversational agent as a virtual therapist for patients diagnosed with schizophrenia: A preliminary study.,POL,POL,POL,Mapped
+BEBV6U2K,Real-World Use of a Mental Health AI Companion: Multiple Methods Study.,USA,USA,USA,Mapped
+BJ4DAKEN,"A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education. [Review]",NA,NA,NA,Country not reported
+BJQ68XTB,Ethical Considerations in Personal Health Large Language Models.,"CHN, USA","CHN, USA","CHN, USA",Mapped
+BLCNAJI7,Evaluating the Usability of an HIV Prevention Artificial Intelligence Chatbot in Malaysia: National Observational Study.,MYS,MYS,MYS,Mapped
+BP54XTRB,Exploring companionship and social connectedness in interactions of groups vulnerable to social isolation with conversational virtual humans (CVHs).,"GBR, USA, CAN, DEU","GBR, USA, CAN, DEU","CAN, DEU, GBR, USA",Mapped
+BZMQC5LC,Using Psychological Artificial Intelligence (Tess) to Relieve Symptoms of Depression and Anxiety: Randomized Controlled Trial,USA,USA,USA,Mapped
+C852VJU5,A Suite of Mobile Conversational Agents for Daily Stress Management (Popbots): Mixed Methods Exploratory Study.,USA,USA,USA,Mapped
+CCANQ4QY,Safety Mechanisms and Risk Mitigation in Generative AI Mental Health Chatbots: A Systematic Scoping Review.,"CAN, USA, PER, GBR, CHN, AUS, ROU, KGZ, MYS, KEN, DEU, BEL","CAN, USA, PER, GBR, CHN, AUS, ROU, KGZ, MYS, KEN, DEU, BEL","AUS, BEL, CAN, CHN, DEU, GBR, KEN, KGZ, MYS, PER, ROU, USA",Mapped
+CCQ38IX4,The Development and Use of Chatbots in Public Health: Scoping Review.,NA,NA,NA,Country not reported
+CH3X47L5,A scoping review of large language models for generative tasks in mental health care.,NA,NA,NA,Country not reported
+CJ3GR52J,"A qualitative study assessing the acceptability of a multi-agent AI Chatbot for providing HIV and mental health support among men who have sex with men and transgender women in KwaZulu-Natal, South Africa",ZAF,ZAF,ZAF,Mapped
+CKT5QZSZ,Intervention Without Borders - an Automated Self-Guided AI-Enhanced Psychoeducation Intervention for Dementia Caregivers: parallel-Group Randomized Waitlist-Controlled Trial,Multi-country (43 countries); study based in Hong Kong,Multi-country (43 countries),NA,No mappable country parsed
+CLB43ZCB,"Artificial Intelligence-Powered Cognitive Behavioral Therapy Chatbots, a Systematic Review.",IRN,IRN,IRN,Mapped
+CPDGVX7V,Update on pioneering initiative on regulation and evaluation of digital mental health technologies,GBR,GBR,GBR,Mapped
+CQETBHDA,Influence of rapport and social presence with an ai psychotherapy chatbot on users' self-disclosure. [References].,KOR,KOR,KOR,Mapped
+CQNUWVPX,Optimizing academic engagement and mental health through AI: an experimental study on LLM integration in higher education.,CHN,CHN,CHN,Mapped
+CU34UBQX,WiseMind: a knowledge-guided multi-agent framework for accurate and empathetic psychiatric diagnosis.,CAN,CAN,CAN,Mapped
+CVPD5W4E,Systematic Review of Artificial Intelligence in Positive and Existential Psychiatry: Advancing Mental and Emotional Health Through Metacompetency Development,"USA, CHN, TUR, SGP, IDN, POL, MWI, AUS, DEU, ARG, SWE, NOR, ROU, ESP, GBR, KOR, JPN","USA, CHN, TUR, SGP, IDN, POL, MWI, AUS, DEU, ARG, SWE, NOR, ROU, ESP, GBR, KOR, JPN","ARG, AUS, CHN, DEU, ESP, GBR, IDN, JPN, KOR, MWI, NOR, POL, ROU, SGP, SWE, TUR, USA",Mapped
+CXHK6PKH,An Artificial Therapist (Manage Your Life Online) to Support the Mental Health of Youth: Co-Design and Case Series.,NA,NA,NA,Country not reported
+D6S3TBS9,"Future Me, a Prospection-Based Chatbot to Promote Mental Well-Being in Youth: Two Exploratory User Experience Studies.",GBR,GBR,GBR,Mapped
+DPDA37EA,GO TO GABBY FOR HEALTH AND WELLNESS: AN EMBODIED CONVERSATIONAL AGENT ADDRESSES STRESS MANAGEMENT INFORMATION AND COPING TECHNIQUES AMONG DIVERSE WOMEN IN THE INNER CITY,NA,NA,NA,Country not reported
+DPJPJRHP,User Experiences of Well-Being Chatbots.,USA,USA,USA,Mapped
+DT99HP8Q,Optimizing Students' Mental Health and Academic Performance: AI-Enhanced Life Crafting. [Review],NLD,NLD,NLD,Mapped
+DUYFYZTN,How does a mental health chatbot work? A 'conversation design' concept of mental health intervention. [References].,GBR,GBR,GBR,Mapped
+DYE6GFYY,The Effects of Artificial Intelligence Chatbots on Women's Health: A Systematic Review and Meta-Analysis. [Review],"USA, FRA, JPN, KOR, ZMB, ZAF, EGY","USA, FRA, JPN, KOR, ZMB, ZAF, EGY","EGY, FRA, JPN, KOR, USA, ZAF, ZMB",Mapped
+E2WZUDCN,AI as a Novel Digital Stressor in Adolescent Psychosis: Clinical and Ethical Implications. [Review],USA,USA,USA,Mapped
+E76YG2NL,The Use of Artificial Intelligence for Personalized Treatment in Psychiatry. [Review],CAN,CAN,CAN,Mapped
+E82G3VHA,ChatGPT told me to say it: AI chatbots and class participation apprehension in university students. [References].,USA,USA,USA,Mapped
+EBZUW4D9,Randomized evidence on AI-enabled personalized treatment planning for adults with depressive-anxiety Spectrum disorders: A systematic review and Meta-analysis. [Review],NA,NA,NA,Country not reported
+EMKCBALE,Chatbots and mental health: A scoping review of reviews. [References].,NA,NA,NA,Country not reported
+EMPWR9A8,Can GPT-4 provide human-level emotion support? Insights from machine learning-based evaluation framework.,"CHN, SGP","CHN, SGP","CHN, SGP",Mapped
+EMVQW3I2,"""I Could Practice Flirting Without Pressure"": A Proof-of-Concept Study of an AI Chatbot-Assisted Intervention for Men Facing Distressing Involuntary Singlehood.",CAN,CAN,CAN,Mapped
+EP3BWDI8,Evaluating the Feasibility and Acceptability of a Mobile Mental Health Intervention for Adolescent Depression and Anxiety.,USA,USA,USA,Mapped
+EQHS9APW,Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being. [Review],"Multiple countries - USA, UK, China, Argentina, Japan, Ukraine, Egypt, Philippines, Taiwan, Italy, Romania, Singapore, Brazil, Turkey, Australia","Multiple countries - USA, UK, China, Argentina, Japan, Ukraine, Egypt, Philippines, Taiwan, Italy, Romania, Singapore, Brazil, Turkey, Australia","ARG, AUS, BRA, CHN, EGY, GBR, ITA, JPN, PHL, ROU, SGP, TUR, TWN, UKR, USA",Mapped
+ET7VTUER,Exploring how politeness impacts the user experience of chatbots for mental health support. [References].,"IRL, GBR","IRL, GBR","GBR, IRL",Mapped
+F3GJBSRH,Conversational AI in Pediatric Mental Health: A Narrative Review. [Review],NA,NA,NA,Country not reported
+F5C3FFH4,Elomia - Digital Mental Health and Well-Being,USA,USA,USA,Mapped
+F5V2N2EM,More than just a chat: A taxonomy of consumers' relationships with conversational AI agents and their well-being implications. [References].,"DEU, USA, LBN, GBR, IND, ROU, PHL, PSE","DEU, USA, LBN, GBR, IND, ROU, PHL, PSE","DEU, GBR, IND, LBN, PHL, PSE, ROU, USA",Mapped
+F7N3QNRA,"Network-based artificial intelligence in mental healthcare: A systematic review of chatbots, artificial intelligence/machine learning models and ethical considerations in global healthcare networks.","USA, IRN","USA, IRN","IRN, USA",Mapped
+F8H8XS5I,"Exploring user characteristics, motives, and expectations and the therapeutic alliance in the mental health conversational AI Clare R: a baseline study.","GBR, DEU, USA","GBR, DEU, USA","DEU, GBR, USA",Mapped
+FEYSDDHY,Charting the evolution of artificial intelligence mental health chatbots from rule-based systems to large language models: a systematic review.,"USA, AUS","USA, AUS","AUS, USA",Mapped
+FJ49L7JD,Recommendations for Mental Health Chatbot Conversations: An Integrative Review.,"FIN, GBR","FIN, GBR","FIN, GBR",Mapped
+FKZIBM8T,Self-help psychological intervention for young individuals during the post-COVID-19 era: development of a PST chatbot using GPT-4.,CHN,CHN,CHN,Mapped
+FPLR8GF3,Unlocking human-like conversations: Scoping review of automation techniques for personalized healthcare interventions using conversational agents.,"NLD, AUS, TWN, USA, FRA, ITA, PER, IDN, JPN, PRT, ESP, GBR, BEL","NLD, AUS, TWN, USA, FRA, ITA, PER, IDN, JPN, PRT, ESP, GBR, BEL","AUS, BEL, ESP, FRA, GBR, IDN, ITA, JPN, NLD, PER, PRT, TWN, USA",Mapped
+FYYBI4QZ,Emotional Reactions and Likelihood of Response to Questions Designed for a Mental Health Chatbot Among Adolescents: Experimental Study.,NA,NA,NA,Country not reported
+G56CZEQC,"""A Great Way to Start the Conversation"": Evidence for the Use of an Adolescent Mental Health Chatbot Navigator for Youth at Risk of HIV and Other STIs.",USA,USA,USA,Mapped
+G7D6SUDQ,Design and evaluation of a conversational agent for mental health support: Forming human-agent sociotechnical and therapeutic relationships.,USA,USA,USA,Mapped
+G8YPKSF6,Artificial Intelligence-Based Chatbot for Anxiety and Depression in University Students: Pilot Randomized Controlled Trial,ARG,ARG,ARG,Mapped
+G9G2ARUD,New Horizons in Higher Education: Examining the Mental Well-Being of Medical & Health Sciences Students Through the Use of Artificial Intelligence Based Chatbot Platforms in the United Arab Emirates - A Cross-Sectional Comparative Study.,ARE,ARE,ARE,Mapped
+GEK8DATW,Digital health interventions for people who use methamphetamine: A scoping review. [References].,AUS,AUS,AUS,Mapped
+GES4MVZA,Psico Bot: A robot for psychological assessment of children and adolescents. [References].,BRA,BRA,BRA,Mapped
+GKDBLGLJ,Review of innovative mental health support for children and young people: Generative AI co-design applications and challenges. [References].,"AUS, ITA, GBR, BRA","AUS, ITA, GBR, BRA","AUS, BRA, GBR, ITA",Mapped
+GQ58684V,The impact of telemedicine and digital mental health in urban areas in Hong Kong. [Review],HKG,HKG,HKG,Mapped
+HCLU978U,StressSpeak: A Speech-Driven Framework for Real-Time Personalized Stress Detection and Adaptive Psychological Support.,PAK,PAK,PAK,Mapped
+HEHCM94Y,Engaging women with an embodied conversational agent to deliver mindfulness and lifestyle recommendations: a feasibility randomized control trial,USA,USA,USA,Mapped
+HFDR6AUW,Clinical implementation of artificial intelligence in adolescent mental healthcare.,USA,USA,USA,Mapped
+HH9EM4GJ,"Using a conversational agent for thought recording as a cognitive therapy task: feasibility, content, and feedback",NLD,NLD,NLD,Mapped
+HLTYB6EM,Ethical implications of high attrition in AI-based mental health interventions: a systematic review and meta-analysis.,CHN,CHN,CHN,Mapped
+HU6YID3E,Responsible machine learning in child welfare and digital mental health.,USA,USA,USA,Mapped
+HWPKAMP3,Artificial intelligence in mental health care: a scoping review of reviews,SAU,SAU,SAU,Mapped
+HX9CCD4F,Exploring the application boundaries of LLMs in mental health: a systematic scoping review.,"CHN, USA, ISR, AUS, CAN, ITA, KOR, IND, BRA, SAU, GBR, ESP, NLD, PAK, POL, CHL","CHN, USA, ISR, AUS, CAN, ITA, KOR, IND, BRA, SAU, GBR, ESP, NLD, PAK, POL, CHL","AUS, BRA, CAN, CHL, CHN, ESP, GBR, IND, ISR, ITA, KOR, NLD, PAK, POL, SAU, USA",Mapped
+HYFFC5T4,"A conversational agent framework for mental health screening: Design, implementation, and usability.",ROU,ROU,ROU,Mapped
+HZNPL7BA,"Psychological insights into the research and practice of embodied conversational agents, chatbots and social assistive robots: A systematic meta-review. [References].",NA,NA,NA,Country not reported
+I9KJZNDB,AI chatbots versus human healthcare professionals: a systematic review and meta-analysis of empathy in patient care.,"USA, DEU, ITA, SGP, CHN, and global online platform (Reddit)","USA, DEU, ITA, SGP, CHN, and global online platform (Reddit)","AND, CHN, DEU, ITA, SGP, USA",Mapped
+IGTML2HP,"Navigating the future of psychiatry: A review of research on opportunities, applications, and challenges of artificial intelligence. [References].",AUS,AUS,AUS,Mapped
+J2YVLD4T,Development and preliminary testing of a secure large language model-based chatbot for brief alcohol counseling in young adults. [References].,USA,USA,USA,Mapped
+JCRY2V8L,Changes to the psychiatric chatbot landscape: A systematic review of conversational agents in serious mental illness. [References].,USA,USA,USA,Mapped
+JKN2NHGF,The effectiveness of CBT-based NLP-enabled AI conversational agents for mental health intervention: a systematic review and meta-analysis.,NA,NA,NA,Country not reported
+JWNEEX87,Effectiveness of artificial intelligence chatbots on mental health & well-being in college students: a rapid systematic review.,USA,USA,USA,Mapped
+JY3TXI7P,Co-design and evaluation of a smartphone-based mental health promotion and anti-stigma embodied conversational agent for church-affiliated Black adults.,USA,USA,USA,Mapped
+JZCYU2JA,"The efficacy, feasibility, and technical outcomes of a GPT-4o-based chatbot Amanda for relationship support: a randomized controlled trial",GBR,GBR,GBR,Mapped
+JZWUB346,Digitally Assisted Mindfulness in Training Self-Regulation Skills for Sustainable Mental Health: A Systematic Review.,GRC,GRC,GRC,Mapped
+K436ZVMF,Automated Safety Testing and Reporting Application for Conversational Safety Monitoring of Generative AI Tools for Mental Health: Development and Validation Study.,USA,USA,USA,Mapped
+K5TTZF6S,The Efficacy of Rule-Based Versus Large Language Model-Based Chatbots in Alleviating Symptoms of Depression and Anxiety: Systematic Review and Meta-Analysis.,"USA, CHN (67% combined); other countries not fully enumerated","USA, CHN (67% combined); other countries not fully enumerated","CHN, USA",Mapped
+K82GTIEK,Designing Values Elicitation Technologies for Mental Health and Chronic Care Integration: User-Centered Design Approach.,USA,USA,USA,Mapped
+KF8DVXLA,Young peoples' reflections about using a chatbot to promote their mental wellbeing in northern periphery areas - a qualitative study.,NA,NA,NA,Country not reported
+KGMTWILF,Leveraging Artificial Intelligence for Substance Use Prevention Among Adolescents: A Systematic Review of Emerging Evidence. [Review],"BGD, IND, IRQ, MYS, ESP, USA","BGD, IND, IRQ, MYS, ESP, USA","BGD, ESP, IND, IRQ, MYS, USA",Mapped
+KGX3897H,Perceptions and Opinions of Patients About Mental Health Chatbots: Scoping Review.,"Multiple countries including USA, AUS, FRA, NLD, JPN, DEU, KOR, ESP, SWE, TUR, GBR","Multiple countries including USA, AUS, FRA, NLD, JPN, DEU, KOR, ESP, SWE, TUR, GBR","AUS, DEU, ESP, FRA, GBR, JPN, KOR, NLD, SWE, TUR, USA",Mapped
+KIKKTA9H,Safety-focused development and evaluation of an LLM sexual well-being chatbot for women: A methods-focused feasibility study.,GBR,GBR,GBR,Mapped
+KP9F2GWV,"Artificial intelligence conversational agents in mental health: Patients see potential, but prefer humans in the loop.",USA,USA,USA,Mapped
+KPHFUQ6U,A Chatbot (Juno) Prototype to Deploy a Behavioral Activation Intervention to Pregnant Women: Qualitative Evaluation Using a Multiple Case Study.,ITA,ITA,ITA,Mapped
+KV6LHVIE,A scoping review on conversational AI in mental health: A human-centered perspective. [Review],NA,NA,NA,Country not reported
+KZ6LZ5E4,Gamified Digital Mental Health Interventions for Young People: Scoping Review of Ethical Aspects During Development and Implementation.,"Multi-country (Europe, North America, Oceania, Asia, Africa, South America)","Multi-country (Europe, North America, Oceania, Asia, Africa, South America)",NA,No mappable country parsed
+L5E9W92E,"Factors Predicting Intentions of Adoption and Continued Use of Artificial Intelligence Chatbots for Mental Health: Examining the Role of UTAUT Model, Stigma, Privacy Concerns, and Artificial Intelligence Hesitancy.",USA,USA,USA,Mapped
+LEEQMAV5,The balance and integration of artificial intelligence within cognitive behavioral therapy interventions. [References].,USA,USA,USA,Mapped
+LICF9UE6,"User-centred design and evaluation of an mHealth app for fathers' perinatal mental health: a feasibility, acceptability, and usability study.","AUS, CAN, GBR, USA","AUS, CAN, GBR, USA","AUS, CAN, GBR, USA",Mapped
+LNR5GJCE,"Clinical Efficacy, Therapeutic Mechanisms, and Implementation Features of Cognitive Behavioral Therapy-Based Chatbots for Depression and Anxiety: Narrative Review.",KOR,KOR,KOR,Mapped
+LPRMAUKF,Feasibility and impact of a mental health chatbot on postpartum mental health: a randomized controlled trial,USA,USA,USA,Mapped
+LQWJZTGB,"Expert Consensus Best Practices for the Safe, Ethical, and Effective Design and Implementation of Artificially Intelligent Conversational Agent (i.e., Chatbot/Virtual Human) Systems in Health Care Applications.",USA,USA,USA,Mapped
+LXBWW9FI,The development and use of chatbots in enhancing health care access for underserved and vulnerable populations: a scoping review.,"USA, BRA, IND, PER, LSO, PAK, ZAF, COD, JOR, NGA","USA, BRA, IND, PER, LSO, PAK, ZAF, COD, JOR, NGA","BRA, COD, IND, JOR, LSO, NGA, PAK, PER, USA, ZAF",Mapped
+M7MG77Z2,"A chatbot-delivered intervention for optimizing social media use and reducing perceived isolation among rural-living LGBTQ+ youth: Development, acceptability, usability, satisfaction, and utility.",USA,USA,USA,Mapped
+M85M2DDC,Exploring the Ethical Challenges of Conversational AI in Mental Health Care: Scoping Review.,NLD,NLD,NLD,Mapped
+M99HZERC,AI-Enhanced Virtual Reality Self-Talk for Psychological Counseling: Formative Qualitative Study.,"ISR, ESP","ISR, ESP","ESP, ISR",Mapped
+MBFZPXSV,Artificial intelligence chatbots as a source of virtual social support: Implications for loneliness and anxiety management.,USA,USA,USA,Mapped
+MCWBJ67T,Transforming healthcare with chatbots: Uses and applications-A scoping review.,"Multi-country (included studies span India, China, USA, Bahrain, Brazil, Egypt, Italy, Kazakhstan, Malaysia, Morocco, Pakistan, Philippines, Singapore, Sri Lanka, Germany, Austria, Switzerland, Norway, Sweden, Finland, Northern Ireland, Scotland, Republic of Ireland)","Multi-country (included studies span India, China, USA, Bahrain, Brazil, Egypt, Italy, Kazakhstan, Malaysia, Morocco, Pakistan, Philippines, Singapore, Sri Lanka, Germany, Austria, Switzerland, Norway, Sweden, Finland, Northern Ireland, Scotland, Republic of Ireland)","AUT, BHR, BRA, CHE, CHN, DEU, EGY, FIN, GBR, IND, IRL, ITA, KAZ, LKA, MAR, MYS, NOR, PAK, PHL, SGP, SWE, USA",Mapped
+MDS93IES,Human-ai collaborative journaling with pocket-mind: A dual-prompt framework for emotional exploration and goal attainment. [References].,KOR,KOR,KOR,Mapped
+ME35L3JC,Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to Support Care Providers with Empathetic Delivery of Protocolized Therapy.,USA,USA,USA,Mapped
+MFHJXG2U,Using Large Language Models for Chronic Disease Management Tasks: Scoping Review.,"UGA, CHN","UGA, CHN","CHN, UGA",Mapped
+MGNFSPXG,Exploring the societal implications of digital mental health technologies: A critical review. [References].,GBR,GBR,GBR,Mapped
+MIY2688W,The application of artificial intelligence in the field of mental health: a systematic review.,IRN,IRN,IRN,Mapped
+MM7F9IXH,Usability Comparison Among Healthy Participants of an Anthropomorphic Digital Human and a Text-Based Chatbot as a Responder to Questions on Mental Health: randomized Controlled Trial,SWE,SWE,SWE,Mapped
+MSPGHQUL,Digital Interventions for Improving Body Dissatisfaction in Children and Emerging Adults: Systematic Review and Meta-Analysis. [Review],"USA, AUS, GBR, CHN, IDN, ITA, BRA","USA, AUS, GBR, CHN, IDN, ITA, BRA","AUS, BRA, CHN, GBR, IDN, ITA, USA",Mapped
+MT4XIVPU,New Doc on the Block: Scoping Review of AI Systems Delivering Motivational Interviewing for Health Behavior Change,"USA (review conducted); included studies from GBR, USA, CAN, HKG, DEU, KOR, SGP, NLD","included studies from GBR, USA, CAN, HKG, DEU, KOR, SGP, NLD","CAN, DEU, GBR, HKG, KOR, NLD, SGP, USA",Mapped
+MXITFJ4G,Recommendations for the development of digital conversational agents for youth with mental health conditions: A position paper.,CAN,CAN,CAN,Mapped
+MZZJ2T8T,Applications of Large Language Models in the Field of Suicide Prevention: Scoping Review.,AUS,AUS,AUS,Mapped
+N895QCM3,An Ethical Perspective on the Democratization of Mental Health With Generative AI.,NA,NA,NA,Country not reported
+NIZ7CAER,An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews.,USA,USA,USA,Mapped
+NLWIDSAX,Chatbot-Based Assessment of Employees' Mental Health: Design Process and Pilot Implementation.,BRA,BRA,BRA,Mapped
+NMSHZGFU,Assessing the Usability of a Chatbot for Mental Health Care. I,GBR,GBR,GBR,Mapped
+NQVTPV43,Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions: A systematic review of randomized controlled trials.,NA,NA,NA,Country not reported
+NUGC8GM7,"Artificial Intelligence for Management of Major Depression: Initial Design, Progress, and Research Plans.",USA,USA,USA,Mapped
+NXZTPPIK,Current Landscape of Mental Health Conversational Agents From a Trauma-Informed Care Lens: Scoping Review. [Review],USA,USA,USA,Mapped
+NYVNCJ2R,Language adaptations of mental health interventions: User interaction comparisons with an AI-enabled conversational agent (Wysa) in English and Spanish.,"ARG, CRI, ECU, MEX, PRI, URY, PER, COL, CHL, ESP","ARG, CRI, ECU, MEX, PRI, URY, PER, COL, CHL, ESP","ARG, CHL, COL, CRI, ECU, ESP, MEX, PER, PRI, URY",Mapped
+PAAUNFMK,Thematic Analysis on User Reviews for Depression and Anxiety Chatbot Apps: Machine Learning Approach.,NA,NA,NA,Country not reported
+PE5A5GUB,Chatbot-assisted therapy for patients with methamphetamine use disorder: a preliminary randomized controlled trial,TWN,TWN,TWN,Mapped
+PFLAW9HM,"""It's Not Only Attention We Need"": Systematic Review of Large Language Models in Mental Health Care.",CHE,CHE,CHE,Mapped
+PGFDA96P,Use of generative artificial intelligence (AI) in psychiatry and mental health care: a systematic review.,"DNK, AUS","DNK, AUS","AUS, DNK",Mapped
+PGUCMWI5,A chatbot architecture for promoting youth resilience,NZL,NZL,NZL,Mapped
+PM34QCJ5,Does the Digital Therapeutic Alliance Exist? Integrative Review.,CAN,CAN,CAN,Mapped
+PTMGARTE,"Entanglements of Technologies, Agency and Selfhood: Exploring the Complexity in Attitudes Toward Mental Health Chatbots.",GBR,GBR,GBR,Mapped
+PUGGDGWM,"""I don't know what you mean by 'I am anxious' "": A new method for evaluating conversational agent responses to standardized mental health inputs for anxiety and depression. [References].",USA,USA,USA,Mapped
+Q36JA26H,Examining Patient Engagement in Chatbot Development Approaches for Healthy Lifestyle and Mental Wellness Interventions: Scoping Review.,NA,NA,NA,Country not reported
+Q5B3VGPX,Cybersecurity and Privacy Risks of Generative AI Mental-Health Chatbots: A Systematic Review and Regulatory Framework.,"USA (review); included studies span multiple countries including USA, CHN, AUS, CAN, NZL, POL, KOR, ZAF","included studies span multiple countries including USA, CHN, AUS, CAN, NZL, POL, KOR, ZAF","AUS, CAN, CHN, KOR, NZL, POL, USA, ZAF",Mapped
+Q8QJERM2,Artificial Intelligence and Mental Health of Children and Adolescents: Current Status and Perspectives,NA,NA,NA,Country not reported
+Q97Q2LGQ,Artificial Intelligence for Mental Health Monitoring: A Solution for Digital Behavioral Health Care and Education-An Umbrella Review. [Review],Global (multi-country),Global (multi-country),NA,No mappable country parsed
+Q9YWIXWH,Co-developing a Mental Health and Wellbeing Chatbot With and for Young People.,AUS,AUS,AUS,Mapped
+QCDL9IRW,Behavior Emotion Therapy System and You: Co-Design and Evaluation of a Mental Health Chatbot and Digital Human for Mild to Moderate Anxiety in Healthy Participants.,SWE,SWE,SWE,Mapped
+QCDSB3HQ,Chatbot-Delivered Cognitive Behavioral Therapy in Adolescents With Depression and Anxiety During the COVID-19 Pandemic: Feasibility and Acceptability Study.,USA,USA,USA,Mapped
+QDD2ZVCD,Too good to be true? Exploring the role of artificial intelligence chatbots in treating depression and anxiety.,NA,NA,NA,Country not reported
+QFTTJSA5,A Clinical Quality-Assurance Panel for Patient-Facing Black-Box Large Language Models in Healthcare: Anchored Forced-Choice Drift Monitoring for Sensitive Communication.,JPN,JPN,JPN,Mapped
+QGK7NR4W,Barriers and Facilitators to the Use of Large Language Model-Based Conversational Agents in Mental Healthcare: A Systematic Review.,"USA, CHN, GBR, AUS, DEU, ISR, JPN, KOR, SAU, ESP, SWE","USA, CHN, GBR, AUS, DEU, ISR, JPN, KOR, SAU, ESP, SWE","AUS, CHN, DEU, ESP, GBR, ISR, JPN, KOR, SAU, SWE, USA",Mapped
+QITZTVNF,AI-Facilitated Cognitive Reappraisal via Socrates 2.0: Mixed Methods Feasibility Study.,USA,USA,USA,Mapped
+QIUFZDFI,"Use of Artificial Intelligence in Mental Healthcare, Health Psychology, and Related Research: A Narrative Review to Address Challenges and Opportunities.","USA, BGD","USA, BGD","BGD, USA",Mapped
+QIWP8DXB,Breaking Barriers in Student Mental Health Care With AI-Enhanced Group Cognitive Behavioral Therapy: Pilot Feasibility Study.,ROU,ROU,ROU,Mapped
+QJ7PRDFY,Impact of Conversational and Animation Features of a Mental Health App Virtual Agent on Depressive Symptoms and User Experience Among College Students: randomized Controlled Trial,USA,USA,USA,Mapped
+QKV238ZE,"Leveraging artificial intelligence in the prediction, diagnosis and treatment of depression and anxiety among perinatal women in low- and middle-income countries: a systematic review","CHN, NPL, BRA, IND, PAK, LKA, TUR, KEN","CHN, NPL, BRA, IND, PAK, LKA, TUR, KEN","BRA, CHN, IND, KEN, LKA, NPL, PAK, TUR",Mapped
+QN73KIK6,Intelligent virtual agents in psychotherapy: a safety evaluation across high-risk mental health scenarios.,DEU,DEU,DEU,Mapped
+QNFTG6SZ,Evaluating Generative AI in Mental Health: Systematic Review of Capabilities and Limitations,"USA, ISR, SGP, SAU, GBR","USA, ISR, SGP, SAU, GBR","GBR, ISR, SAU, SGP, USA",Mapped
+QSY2UEV9,"The intervention effect of internet-based cognitive behavioral therapy on anxiety, depression, and stress in college students: a systematic review and meta-analysis based on randomized controlled trials.",NA,NA,NA,Country not reported
+QVUCLQEA,Therapy chatbots and emotional complexity: do therapy chatbots really empathise?. [Review],NLD,NLD,NLD,Mapped
+QYBUQINQ,DIGITAL INNOVATIONS IN SUICIDE PREVENTION: TOWARD A PARADIGM SHIFT. [Review],ITA,ITA,ITA,Mapped
+QZUBDNJJ,"Patterns of Uptake, Engagement, and Attrition in Randomized Controlled Trials of Digital Interventions for Eating Disorders: A Systematic Review and Meta-Analysis. [Review]",AUS,AUS,AUS,Mapped
+R2ASVS33,Feasibility and User Experience of an AI-Supported mHealth Intervention for Remote Life Goal Setting Based on Flow Theory: Exploratory Within-Participant Study.,JPN,JPN,JPN,Mapped
+R2NSUYHM,Optimizing personalized psychological well-being interventions through digital phenotyping: results from a randomized non-clinical trial,"ITA, CHE","ITA, CHE","CHE, ITA",Mapped
+R83B5MNS,Does the AI-driven chatbot work? Effectiveness of the Woebot app in reducing anxiety and depression in group counseling courses and student acceptance of technological aids. [References].,TWN,TWN,TWN,Mapped
+RAIW756K,A Web-Based Stratified Stepped Care Platform for Mental Well-being (TourHeart+): User-Centered Research and Design.,HKG,HKG,HKG,Mapped
+RENXKE46,Designing Personality-Adaptive Conversational Agents for Mental Health Care.,NA,NA,NA,Country not reported
+RGF6QJMW,Are online mental health interventions for youth effective? A systematic review.,"AUS, CAN, CHE, CHN, DEU, DNK, FIN, GBR, IRN, IRL, KEN, NLD, NZL, SWE, USA","AUS, CAN, CHE, CHN, DEU, DNK, FIN, GBR, IRN, IRL, KEN, NLD, NZL, SWE, USA","AUS, CAN, CHE, CHN, DEU, DNK, FIN, GBR, IRL, IRN, KEN, NLD, NZL, SWE, USA",Mapped
+RN6AG7ZW,Factors influencing patient engagement in mental health chatbots: A thematic analysis of findings from a systematic review of reviews.,IRN,IRN,IRN,Mapped
+RNE2ZD4V,"""Like I'm Talking to a Real Person"": Exploring the Meaning of Transference for the Use and Design of AI-Based Applications in Psychotherapy.",DEU,DEU,DEU,Mapped
+RUN9RA7A,Application of Synchronous Text-Based Dialogue Systems in Mental Health Interventions: Systematic Review.,AUS,AUS,AUS,Mapped
+S2JW9SGH,"Insights Derived From Text-Based Digital Media, in Relation to Mental Health and Suicide Prevention, Using Data Analysis and Machine Learning: Systematic Review.","AUS, IND, USA, CHN","AUS, IND, USA, CHN","AUS, CHN, IND, USA",Mapped
+S542G5HN,A Relational Agent Intervention for Adolescents Seeking Mental Health Treatment: outcomes From a Randomized Controlled Trial Within a Children's Outpatient Hospital,USA,USA,USA,Mapped
+SER7KR8A,SleepPathfinder: A Socratic Questioning and Self-Decision-Based Chatbot to Support User Engagement in Digital CBT-I: Usability and Feasibility Study.,KOR,KOR,KOR,Mapped
+SJPZUS4X,Therapeutic Interaction Features of AI Chatbots in Depression Interventions: Systematic Review and Meta-Analysis.,GBR,GBR,GBR,Mapped
+SMR5BQP4,Exploring the Application of AI and Extended Reality Technologies in Metaverse-Driven Mental Health Solutions: Scoping Review.,"QAT, PAK","QAT, PAK","PAK, QAT",Mapped
+SW62FV8M,Co-design of a single session intervention chatbot for people on waitlists for eating disorder treatment: a qualitative interview and workshop study.,AUS,AUS,AUS,Mapped
+T2NIHJ4Q,Conversational Agents in Health Care: Scoping Review of Their Behavior Change Techniques and Underpinning Theory.,"USA, GBR, JPN, KOR, CHE, AUS, FRA, DEU, IND, NLD, ESP, SWE","USA, GBR, JPN, KOR, CHE, AUS, FRA, DEU, IND, NLD, ESP, SWE","AUS, CHE, DEU, ESP, FRA, GBR, IND, JPN, KOR, NLD, SWE, USA",Mapped
+T3XV2WWG,Mind Meets Machine: A Narrative Review of Artificial Intelligence Role in Clinical Psychology Practice. [Review],ITA,ITA,ITA,Mapped
+T7HXXLYL,An overview of the features of chatbots in mental health: A scoping review.,"USA, JPN, AUS, NLD, FRA, GBR, TUR, DEU, SWE, GRC, ESP, KOR, PAK, CHN, MEX, ROU, SCO (multi-country review of included studies)","USA, JPN, AUS, NLD, FRA, GBR, TUR, DEU, SWE, GRC, ESP, KOR, PAK, CHN, MEX, ROU, SCO (multi-country review of included studies)","AUS, CHN, DEU, ESP, FRA, GBR, GRC, JPN, KOR, MEX, NLD, PAK, ROU, SWE, TUR, USA",Mapped
+TB2ZIIQF,Chatbots for Children and Adolescents: A Meta-analysis of Chatbots for Mental Health Issues and Psychosocial Well-Being Outcomes,"USA, CHN, GBR, ITA, FIN, BEL, BRA, KOR, ROU","USA, CHN, GBR, ITA, FIN, BEL, BRA, KOR, ROU","BEL, BRA, CHN, FIN, GBR, ITA, KOR, ROU, USA",Mapped
+TB4GV5LV,Development of a Mobile Intervention for Procrastination Augmented With a Semigenerative Chatbot for University Students: pilot Randomized Controlled Trial,KOR,KOR,KOR,Mapped
+TSRVTGTG,"Artificial intelligence in mental health care: a systematic review of diagnosis, monitoring, and intervention applications.","SGP, HKG","SGP, HKG","HKG, SGP",Mapped
+TYHSDU6M,Effectiveness and Safety of Using Chatbots to Improve Mental Health: Systematic Review and Meta-Analysis.,Multiple countries - studies conducted in more than 11 countries,Multiple countries - studies conducted in more than 11 countries,NA,No mappable country parsed
+TZZSE43E,Combining AI and human support in mental health: a digital intervention with comparable effectiveness to human-delivered care,GBR,GBR,GBR,Mapped
+U2VCBBSZ,Is This Chatbot Safe and Evidence-Based? A Call for the Critical Evaluation of Generative AI Mental Health Chatbots.,GBR,GBR,GBR,Mapped
+U57C38N4,Applications of artificial intelligence-based conversational agents in healthcare: A systematic umbrella review.,USA (author affiliation); global review scope,global review scope,NA,No mappable country parsed
+U5GZGYAV,Our journey with an AI assistant offering narrative therapy on WhatsApp. [References].,HKG,HKG,HKG,Mapped
+UAUMWJFW,Agents of change: Understanding the therapeutic processes associated with the helpfulness of therapy for mental health problems with relational agent MYLO.,GBR,GBR,GBR,Mapped
+UDRW9X6S,Generative AI-Powered Mental Wellness Chatbot for College Student Mental Wellness: Open Trial,USA,USA,USA,Mapped
+UE2YMGMW,Public perceptions of the use of artificial intelligence and technology based resources in psychotherapy.,USA,USA,USA,Mapped
+UIBFXFWM,Integrating ChatGPT: Enhancing postpartum mental healthcare with artificial intelligence (AI) support.,IND,IND,IND,Mapped
+URBX7GID,"Behavioral intervention technologies for children and adolescents: Need, feasibility, and scalability.",USA,USA,USA,Mapped
+US49AQYD,Use of automated conversational agents in improving young population mental health: a scoping review.,ROU,ROU,ROU,Mapped
+USRGRGRJ,"Help, near and far: a systematic review of post-COVID digital mental health solutions for domestic violence victims.","USA, NLD, KEN, ZAF, KOR, NOR, CAN","USA, NLD, KEN, ZAF, KOR, NOR, CAN","CAN, KEN, KOR, NLD, NOR, USA, ZAF",Mapped
+UTXTHH8N,The role of digital mental health resources in encouraging help-seeking: A qualitative study of university students' experiences.,CHN,CHN,CHN,Mapped
+UU3JSM2W,ChatGPT Clinical Use in Mental Health Care: Scoping Review of Empirical Evidence.,ISR,ISR,ISR,Mapped
+UUXZCYLM,Perspectives and preferences of domestic violence survivors regarding digital platform and AI chatbot for help-seeking: A qualitative study.,HKG,HKG,HKG,Mapped
+UVFLEFBQ,Exploration of Mental Health and Stress Among Nursing Interns Through a Chatbot: A Single-Group Pilot Study.,TWN,TWN,TWN,Mapped
+V238X9IM,Chatbots to support young adults' mental health: An exploratory study of acceptability. [References].,GBR,GBR,GBR,Mapped
+V2LTJX4G,Artificial intelligence in the psychologist's toolkit: Psypilot as a case study.,ESP,ESP,ESP,Mapped
+V5VMIH38,The Next Generation: chatbots in Clinical Psychology and Psychotherapy to Foster Mental Health - A Scoping Review,DEU,DEU,DEU,Mapped
+VJFDTANB,Designing conversational intelligence: effect of large language models (GPT-driven) platforms for precision maternal and newborn health engagement: a systematic review.,Multi-country (12 countries across included studies; review conducted from Iran),Multi-country (12 countries across included studies,NA,No mappable country parsed
+VJTPDVRG,The Digital Therapeutic Alliance With Mental Health Chatbots: Diary Study and Thematic Analysis.,NZL,NZL,NZL,Mapped
+VMD2L39K,Artificial Intelligence-Driven Tools in Mental Health Service Delivery: A Scoping Review.,KOR,KOR,KOR,Mapped
+VN82DGR2,"Empowering pediatric, adolescent, and young adult patients with cancer utilizing generative AI chatbots to reduce psychological burden and enhance treatment engagement: a pilot study.",JPN,JPN,JPN,Mapped
+VRJLARDK,Current Landscape and Future Directions for Mental Health Conversational Agents for Youth: Scoping Review.,"USA, NZL, AUS, GBR, CHN, BRA, DEU, ITA, NOR, ARG, BGD, BEL, CAN, NLD, PHL, PRT","USA, NZL, AUS, GBR, CHN, BRA, DEU, ITA, NOR, ARG, BGD, BEL, CAN, NLD, PHL, PRT","ARG, AUS, BEL, BGD, BRA, CAN, CHN, DEU, GBR, ITA, NLD, NOR, NZL, PHL, PRT, USA",Mapped
+VSNPK53Q,A Mental Health Chatbot with Cognitive Skills for Personalised Behavioural Activation and Remote Health Monitoring.,AUS,AUS,AUS,Mapped
+VZINW9IA,Conversational Agent Interventions for Mental Health Problems: Systematic Review and Meta-analysis of Randomized Controlled Trials,"USA, GBR, SWE, JPN, KOR, CHE, CAN, ARG, CHN, IRL, NLD, DEU, NZL","USA, GBR, SWE, JPN, KOR, CHE, CAN, ARG, CHN, IRL, NLD, DEU, NZL","ARG, CAN, CHE, CHN, DEU, GBR, IRL, JPN, KOR, NLD, NZL, SWE, USA",Mapped
+W2DMGU9Q,Ethical challenges of using artificial intelligence in suicide prevention: a literature review.,"MEX, BOL, ARG, PER","MEX, BOL, ARG, PER","ARG, BOL, MEX, PER",Mapped
+W745QKT7,RACares: a conceptual design to guide mHealth relational agent development based on a systematic review.,"BGD, USA","BGD, USA","BGD, USA",Mapped
+WDKTMUZR,Technology-Based Interventions for Promoting Well-Being in Childhood and Adolescence: A Systematic Review and Meta-Analysis,"Multi-country: Europe (n=5), Australia (n=4), North America (n=4), Turkey (n=1), Brazil (n=1), China (n=1), Kenya (n=1)","Multi-country: Europe (n=5), Australia (n=4), North America (n=4), Turkey (n=1), Brazil (n=1), China (n=1), Kenya (n=1)","AUS, BRA, CHN, KEN, TUR",Mapped
+WDWDR435,Essays on digital technology-enabled mental healthcare delivery.,USA,USA,USA,Mapped
+WKKSL33Y,Artificial intelligence in perinatal mental health research: A scoping review.,NA,NA,NA,Country not reported
+WW6HMCYF,A LLM-Based Chatbot for Mindfulness Practice with Older Adults: A Development and Usability Study.,SWE,SWE,SWE,Mapped
+WZSM7X7Z,Connect With Me. Exploring Influencing Factors in a Human-Technology Relationship Based on Regular Chatbot Use.,DEU,DEU,DEU,Mapped
+X3MYM8KD,"Large Language Model-based Chatbots and Agentic AI for Mental Health Counseling: A Systematic Review of Methodologies, Evaluation Frameworks, and Ethical Safeguards.",NA,NA,NA,Country not reported
+X83YDN33,Feasibility of the LvL UP digital lifestyle coaching intervention designed to prevent non-communicable diseases and common mental disorders.,SGP,SGP,SGP,Mapped
+XA22B5ZU,"The engagement-validation loop: Sycophancy, anthropomorphic projection, and clinical risk in informal AI-based mental health support.",NA,NA,NA,Country not reported
+XAW87CRA,Digital Psychiatry with Chatbot: Recent Advances and Limitations. [Review],KOR,KOR,KOR,Mapped
+XF4Q9DU7,Artificial intelligence robots for mental health applications: a scoping review,CHN,CHN,CHN,Mapped
+XJBXG9QY,Development of a generative AI agent for family support in implementing family-based treatment for children and adolescents with anorexia nervosa.,JPN,JPN,JPN,Mapped
+XLAYFWZF,Perceptions and Needs of Artificial Intelligence in Health Care to Increase Adoption: Scoping Review.,SGP,SGP,SGP,Mapped
+XLU8456C,User Experience and Early Clinical Outcomes of a Mental Wellness Chatbot for Depression and Anxiety: Pilot Evaluation Mixed Methods Study.,USA,USA,USA,Mapped
+XQVUY6J5,A systematic review and meta-analysis of digital application use in clinical research in pain medicine. [Review],"NLD, SWE, USA, NOR, DEU, CHN, FRA, CAN, KOR, AUS, IRL","NLD, SWE, USA, NOR, DEU, CHN, FRA, CAN, KOR, AUS, IRL","AUS, CAN, CHN, DEU, FRA, IRL, KOR, NLD, NOR, SWE, USA",Mapped
+XY5DPMBU,Scoping Review of AI-Chatbots to Support Family Caregivers.,USA,USA,USA,Mapped
+XZ4HRPZY,AI Chatbots for Mental Health Self-Management: Lived Experience-Centered Qualitative Study.,USA,USA,USA,Mapped
+XZWNVH4S,Young people's perceptions and recommendations for conversational generative artificial intelligence in youth mental health.,AUS,AUS,AUS,Mapped
+YASTXTQD,Loneliness and AI chatbot dependence in young adults: the mediating role of perceived social support.,TUR,TUR,TUR,Mapped
+YCEMSMJK,"The evolving field of digital mental health: current evidence and implementation issues for smartphone apps, generative artificial intelligence, and virtual reality.",NA,NA,NA,Country not reported
+YIVI4BTX,A Cognitive Behavior Therapy Chatbot (Otis) for Health Anxiety Management: A Mixed-Methods Pilot Study.,NZL,NZL,NZL,Mapped
+YTDLQT5X,A Therapeutic Conversational Agent (Solace) for Management of Chronic Pain: Acceptability and Usability Study.,"CAN, GBR","CAN, GBR","CAN, GBR",Mapped
+YTJ923QL,A Chatbot-Based Coaching Intervention for Adolescents to Promote Life Skills: Pilot Study.,ITA,ITA,ITA,Mapped
+YVTL7J99,A review of artificial intelligence enhanced cognitive behavioural therapy using the BECK AI BOT for mental health interventions.,IND,IND,IND,Mapped
+Z2M4QKRY,Self-Guided Web-Based Interventions: Scoping Review on User Needs and the Potential of Embodied Conversational Agents to Address Them.,NLD,NLD,NLD,Mapped
+ZCU8WV86,Designing Chatbots to Treat Depression in Youth: Qualitative Study.,DEU,DEU,DEU,Mapped
+ZIYGR7EF,What Role Can Avatars Play in e-Mental Health Interventions? Exploring New Models of Client-Therapist Interaction. [Review],AUS,AUS,AUS,Mapped
+ZMWFZKVH,"Digital conversational agents for youth with multiple mental health conditions: A qualitative descriptive study of youth perspectives on the acceptability, potential benefits, and challenges. [References].",CAN,CAN,CAN,Mapped
+ZRB5UHJU,The role of artificial intelligence in mental health: a comprehensive review.,NA,NA,NA,Country not reported
+ZSRB5UBK,Conversational agents for depression screening: A systematic review.,ESP,ESP,ESP,Mapped
+ZU4EIB8I,Early detection of depression using a conversational AI bot: A non-clinical trial,AUS,AUS,AUS,Mapped
+ZVGF6FKL,Evaluation of an artificial intelligence enhanced application for student wellbeing: Pilot randomised trial of the Mind Tutor. [References].,GBR,GBR,GBR,Mapped
+ZX35S3FG,User perceptions and utilisation of features of an AI-enabled workplace digital mental wellness platform 'mindline at work'.,SGP,SGP,SGP,Mapped

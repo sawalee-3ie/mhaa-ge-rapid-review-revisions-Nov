@@ -1,0 +1,8 @@
+classification,source_fields,rule
+Evidence group,"base.6, base.12 and title","Design categories are used first, supplemented by explicit review, framework/regulatory and empirical keywords."
+South Africa/SSA/L&MIC,"base.10, base.11a, base.11b and base.2",Positive extracted flags are retained; explicit country codes in base.2 provide a safeguard. Disagreements are exported for review.
+Age 10-19/10-24/18-24,base.5,"Uses the explicit maps_10_19, maps_10_24 and maps_18_24 components of the extracted composite field."
+GenAI,"title, base.7, base.12, 1b.1 and 1b.5","Requires explicit GenAI/LLM terminology. AI, NLP or machine learning alone does not count as GenAI."
+Single-session,"title, base.7, 1b.2 and 1b.4","Requires explicit single-session, one-session or SSI terminology."
+Delivery channel,"base.7, 1b.1 and PL.2",Non-mutually-exclusive keyword flags. Counts require manual verification.
+Sponsor and declared interest,base.13,Keyword-derived descriptive classification; no quality rating is inferred.
