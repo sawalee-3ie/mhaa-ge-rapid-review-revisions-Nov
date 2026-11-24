@@ -1,0 +1,163 @@
+﻿Tracker #,Reviewer,Topic,Priority,Status,What was done / why held
+1,Holly Bear,Structure,Medium,Held - to check/decide,SL: check Context/MHAA description with Suvarna (disclosure); bracketed placeholders
+2,Holly Bear,Framing / rationale,High,Held - to check/decide,Confirm 85% treatment-gap source and wording (see #51)
+3,Karina Rios Michel,Framing / rationale,Medium,Applied - partly,"Revised (tracked), tracker #3: added a sentence at the end of Section 1.1, para 3, on young people's informal use of general-purpose GenAI and the reported harms (dependency, reduced contact with human support), citing Olisaeloka et al. 2026; Head 2025; Wu et al. 2026; Vogt et al. 2025. The abstract Background rewrite (#2) is not applied yet: the 85% treatment-gap source still needs checking."
+4,Karina Rios Michel,Terminology,Low,Applied,"Revised (tracked), tracker #4: added '(chatbots)' after 'conversational agents' in the abstract and an umbrella-term definition at first use in Section 1.1. A full terminology consistency pass is still to do."
+5,Holly Bear,Framing / rationale,High,Held - to check/decide,New Context section held: SL to check how Girl Effect/MHAA are described
+6,Amalia Villa Gomez,Clarity / wording,Medium,Held - to check/decide,Tied to the held Context section (#5)
+7,Karina Rios Michel,Clarity / wording,Low,No change,No change needed: keep 'Anytime Anywhere' (SL); GE description still to supply
+8,Amalia Villa Gomez,Clarity / wording,Medium,Held - to check/decide,"Age framing: SL proposes different framing (broadened WHO band, focus on MHAA ages where possible)"
+9,Karina Rios Michel,Clarity / wording,Medium,Held - to check/decide,GE to confirm what the 'AI evaluation' covers
+10,Karina Rios Michel,Framing / rationale,Medium,Applied - partly,"Revised (tracked), tracker #10: Section 1.2 now says MHAA is 'being developed'. The new Context section (#5) is not applied: SL flagged that how Girl Effect and MHAA are described needs checking with Suvarna (disclosure concerns)."
+11,Sharp Admin,Editorial,Low,Applied - partly,"Revised (tracked), tracker #11: protocol citation in Section 2 corrected from 'Lucas et al. 2026' to 'Sempe et al. 2026' (SL confirmed). Not changed: the OSF registration wording and DOI (SL queried whether the protocol was registered on OSF). The protocol is also not yet in the reference list."
+12,Holly Bear,Clarity / definition,Medium,Applied - partly,"Revised (tracked), tracker #12: 'review-level records' defined at first use in the executive summary. Not applied: the Search A definition in 2.2 (the #65 check says Search A used only meta-analysis/umbrella-review terms) and the protocol-deviation note on synthesizing reviews."
+13,Holly Bear,Methods,Medium,Applied - partly,"Revised (tracked), tracker #13: Limitations now state the grey-literature scope (four regulators and WHO; no NGO or product sources) and that citation tracking, planned in the protocol, was not done (SL: report as a deviation). The abstract Methods text is unchanged (part of the held structured-abstract rewrite). Still to confirm: what the SAHPRA website search returned (#28)."
+14,Holly Bear,Editorial,Low,Applied,"Revised (tracked), tracker #14: deleted 'with no meta-analysis and no formal critical appraisal.' from the abstract. Sections 2.4 and Limitations unchanged."
+15,Holly Bear,Structure,Low,Held - to check/decide,Age framing; 18-24 counts not available in dataset
+16,Holly Bear,Evidence / strength of claims,High,Held - to check/decide,Reconcile intervention-type counts (3.2 vs 4.3); identify GenAI-specific pooled estimates
+17,Isabelle Amazon-Brown,Clarity / definition,Medium,Held - to check/decide,SL: add SSI-specific uptake/completion definitions; check SSI studies
+18,Isabelle Amazon-Brown,Clarity / definition,Medium,Applied - partly,"Revised (tracked), tracker #18: Section 4.2 now clarifies that session completion means completion of the intervention sessions or modules, not study follow-up. Not applied: the executive-summary wording (SL asked for SSI-specific clarification of uptake and completion under #17) and the n = 86 vs 67 discrepancy."
+19,Sharp Admin,Editorial,Low,Applied,"Revised (tracked), tracker #19: 'touches it' replaced with 'addresses them' in the abstract and executive summary."
+20,Holly Bear,Evidence / strength of claims,High,Applied - partly,"Revised (tracked), tracker #20: final abstract paragraph replaced with the proposed Conclusions text, which removes the 'provisionally lock' and isiZulu wording. The full structured abstract with headings (#1) is held pending SL's Context check and the bracketed placeholders."
+21,Alex Fulcher,MHAA decision,High,Held - to check/decide,GE language position; SL #156: MHAA decisions should not change dataset-derived wording
+22,Holly Bear,Evidence / strength of claims,High,Applied,"Revised (tracked), tracker #22: the PHQ and GAD-7 are now framed as candidate core measures in the executive summary, Section 4.6 Gaps ('instrument locking' removed) and Table 3."
+23,Sharp Admin,Methods,Medium,Applied,"Revised (tracked), tracker #23: rationale for the PHQ and GAD-7 added as a new paragraph at the start of Section 5.4. 'Some SA use' left out, as the report has no supporting evidence."
+24,Amalia Villa Gomez,Clarity / wording,Low,Applied,"Revised (tracked), tracker #24: abstract Results now name the safeguarding components (risk detection, suspension of generative responses, alerts linked to human assessment and referral) and state that none was evaluated in combination."
+25,Holly Bear,Structure,Medium,Held - to check/decide,SL (#30): fold key messages into executive summary - do with the full summary rewrite
+26,Karina Rios Michel,Clarity / definition,Medium,Held - to check/decide,Hand-check the six 15-30 minute records; confirm session length with GE
+27,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+28,Karina Rios Michel,Editorial,Low,Applied - partly,"Revised (tracked), tracker #28: SAHPRA spelled out at first use in Key messages. Still to check: what the 6 July SAHPRA website search returned and whether to cite a SAHPRA document. The Tessa part of this key message is held pending the JMIR 2023 e50696 source check (#29)."
+29,Sharp Admin,Evidence / strength of claims,High,Held - to check/decide,Tessa: verify against JMIR 2023 e50696 first
+30,Holly Bear,Structure,High,Held - to check/decide,SL: merge key messages into executive summary; full restructure once held items settle
+31,Holly Bear,Clarity / definition,Medium,Applied,"Revised (tracked), tracker #31, partly: 'live evidence base' replaced, and the summary now says this is not a living review. The proposed wording that 'screening, extraction and verification are still being completed' was not used, because SL noted under #75 that no further verification is planned. For the same reason, the incomplete last sentence of Section 1.4 is left for SL to reword. | v2: per SL, verification is complete; removed all ""ongoing verification"" wording (1.4, exec summary) and replaced the Limitations paragraph with SL's residual-error wording."
+32,Karina Rios Michel,Clarity / wording,Medium,Held - to check/decide,SL: unsure whether the RR should describe the MHAA evaluation
+33,Holly Bear,Evidence / strength of claims,Medium,Held - to check/decide,SL: rephrase 'recent' using a dataset fact (e.g. share published after 2025) - needs dataset check
+34,Isabelle Amazon-Brown,Scope / population,High,Held - to check/decide,Age framing; no 18-24-specific findings in extraction (SL)
+35,Holly Bear,Clarity / definition,Medium,Applied,"Revised (tracked), tracker #35: the executive summary now names the seven evidence streams before 'Several findings recur'."
+36,Isabelle Amazon-Brown,Clarity / definition,Low,Applied - partly,"Revised (tracked), tracker #36, partly: Hedges' g defined at first use (abstract, executive summary, 4.2) and added to the abbreviations list, with a note that the values come from the included meta-analyses (SL, #68). Not added: the 0.2/0.5/0.8 conventions, which SL said need a proper citation first."
+37,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+38,Holly Bear,Evidence / strength of claims,High,Held - to check/decide,"Durability split and Tessa wording to confirm; parts applied via #35, #39, #40, #148"
+39,Sharp Admin,Clarity / wording,Medium,Applied,"Revised (tracked), tracker #39: the 'Local language support' sentence replaced with clearer wording in the executive summary, Section 5.1 and Table 3."
+40,Karina Rios Michel,Editorial,Low,Applied,"Revised (tracked), tracker #40: the executive summary now reads 'Safeguarding and referral were the least well-implemented components in every stream that addressed them'; matching fix in the abstract. Section 5.1 uses the softer #148 wording."
+41,Sharp Admin,Evidence / strength of claims,High,Held - to check/decide,Tessa source check
+42,Alex Fulcher,MHAA decision,High,Held - to check/decide,GE language position
+43,Karina Rios Michel,Clarity / definition,Low,Applied,"Revised (tracked), tracker #43: definition of code-switching added to the list of abbreviations. The MHAA-specific mixed-code wording (#42) is held pending GE's language position."
+44,Sharp Admin,Methods,Medium,Applied,"Revised (tracked), tracker #44: rationale for proposing the PHQ and GAD-7 added to the executive summary ('some SA use' omitted as unsupported)."
+45,Isabelle Amazon-Brown,Clarity / wording,Medium,Held - to check/decide,Confirm 35% loss-to-follow-up allowance with evaluation team
+46,Isabelle Amazon-Brown,Clarity / definition,Medium,Applied,"Revised (tracked), tracker #46: 'chain performance' now explained as data on how well the full referral chain worked, from detecting risk to the young person reaching a service (executive summary, Key messages, Section 4.4 and Section 5.1)."
+47,Sharp Admin,Evidence / strength of claims,High,Applied - partly,"Revised (tracked), tracker #47, partly: heading and Table 1 title renamed 'Provisional design hypotheses'; column renamed 'What this informs in the evaluation protocol'; executive summary para 4 reframed as provisional starting positions; abstract 'lock' wording removed (#20); Table 3 'Lock' changed to 'Start from'; Section 4.6 'instrument locking' removed. Not changed: the traffic-light legend and the G/A/R column, pending the team's decision on whether to keep the coloured column and re-rate the rows."
+48,Sharp Admin,Methods,Medium,Held - to check/decide,CBT rationale tied to #152 MHAA decision; reframing/restructuring to harmonize
+49,Amalia Villa Gomez,MHAA decision,High,Held - to check/decide,GE language position
+50,Isabelle Amazon-Brown,Clarity / wording,Medium,Held - to check/decide,Table 1 colours/legend decision (#47) needed first
+51,Sharp Admin,Clarity / wording,Medium,Held - to check/decide,Primary source and figure for treatment gap needed
+52,Karina Rios Michel,Framing / rationale,Medium,Held - to check/decide,Two sources needed (time poverty; 'most common number of sessions is one')
+53,Holly Bear,Scope / population,High,Held - to check/decide,Age framing
+54,Karina Rios Michel,Framing / rationale,Low,Applied,"Revised (tracked), tracker #54: added mobile phone ownership (81.6% of males and 86.5% of females aged 15 to 34 in 2022; Statistics South Africa 2023) to Section 1.1, using the source SL supplied. Reference added."
+55,Amalia Villa Gomez,Editorial,Low,Applied,"Revised (tracked), tracker #55: 'in eight' changed to 'in eight of the nine trials'."
+56,Sharp Admin,Framing / rationale,Medium,Held - to check/decide,SL supplied citation (Vuraloglu et al. 2026); still check one-line summary against paper and whether it was retrieved/excluded
+57,Holly Bear,Framing / rationale,Medium,Applied,"Revised (tracked), tracker #57: the opening of Section 1.1, para 4, now reports what existing reviews suggest rather than pre-empting the review's findings."
+58,Karina Rios Michel,Reference suggested,Low,Applied,"Revised (tracked), tracker #58: SSI and Project YES citations added in Section 1.2 (Schleider and Weisz 2017; Schleider et al. 2025; Schleider et al. 2020; Shroff et al. 2023) and to the references. Please check the reference details against the protocol reference list; they were not copied from it. | References checked online (24 Nov): Schleider & Weisz 2017, Schleider et al. 2020 and 2025 correct; Shroff et al. 2023 second author corrected to Chantelle Roulston in v2."
+59,Holly Bear,Structure,High,Held - to check/decide,RQ restructure still 'For discussion'
+60,Holly Bear,Methods,Medium,Applied - partly,"Revised (tracked), tracker #60, partly, following SL's notes: 'rapid scoping review' replaced with 'rapid evidence review' (abstract and 2.1); Section 2.3 now records that active-learning stopping was explored but the target recall was not achieved, so all titles and abstracts were screened manually (protocol deviation); citation tracking recorded as a deviation in Limitations. Not applied: the long methods paragraph, which was framed as a scoping review and includes details still to confirm (LLM-assisted extraction, LLM calibration thresholds and values achieved, full-text LLM process). Please check the new 2.3 sentence against Figure 1, which shows 291 records 'marked as ineligible by automation tools'."
+61,Holly Bear,Methods,High,Held - to check/decide,Eligibility table: bracketed cells unconfirmed; draft exclusion 'AI tools only for diagnosis/prediction' conflicts with included screening records
+62,Alex Fulcher,Scope / population,High,Held - to check/decide,Age framing
+63,Holly Bear,Editorial,Low,Applied - partly,"Revised (tracked), tracker #63: the PICoST expansion now reads 'Intervention' instead of 'Interest'. Not changed: SL's note that 'C' should be 'Comparison'. The eligibility list has a 'Context' criterion, and PICoST is usually Population, Interest/Intervention, Context, Study design, Time, so please confirm before changing. | SL confirmed (25 Nov): keep ""Context"" - no further change."
+64,Holly Bear,Methods,Medium,Applied - partly,"Revised (tracked), tracker #64: Section 2.1 now states that records addressing only physical health or health behaviors, with no mental health outcome or component, were excluded (SL confirmed). No note on the search block, per SL. The full eligibility table (#61) is not inserted because some cells are unconfirmed; for example, the draft exclusion 'AI tools used only for diagnosis or prediction' conflicts with included depression-screening records."
+65,Holly Bear,Methods,High,Applied - partly,"Revised (tracked), tracker #65, partly: duplicated colon fixed in 2.2, and a Limitations sentence added on both search strings requiring conversational-AI terms. Not applied: the 2.2 scope paragraph and the search-strategy appendix, because the route by which non-conversational evidence entered (reviews or grey literature) still needs confirming from the dataset (SL, #69)."
+66,Sharp Admin,Reference suggested,Low,Applied,"Revised (tracked), tracker #66: Limitations now note that studies published after the search date are not included, citing Sharp et al. 2026 (JEM) with the reference SL supplied. Please confirm the publication date is after 6 July 2026; the description uses only the article title. | Confirmed: published 20 July 2026, after the searches, so cited as contextual (Other references), not an included study."
+67,Holly Bear,Positive / noted,Low,No change,Reviewer comment needs no revision
+68,Sharp Admin,Methods,Low,Applied - partly,"Revised (tracked), tracker #68: Section 2.4 now explains why meta-analysis, appraisal and certainty assessment were not done, and states that pooled estimates are those reported in the included meta-analyses (SL). Section 1.4 aligned. The proposed clause citing Tricco et al. 2018 ('critical appraisal is optional in scoping reviews') was dropped because SL asked to drop the scoping framing. The quality-flag question is still open."
+69,Holly Bear,Scope / population,High,Held - to check/decide,SL: no top-up search; check dataset for route ('mainly through reviews')
+70,Sharp Admin,Scope / population,Low,Held - to check/decide,SL: no 18-24 coding in dataset - redraft needed
+71,Holly Bear,Scope / population,High,Held - to check/decide,SL: no 18-24 counts - redraft needed
+72,Holly Bear,Methods,High,Applied,"Revised (tracked), tracker #72: Limitations text added with both Schleider citations (SL confirmed); matching edits in 4.3 Gaps, Key messages, Table 4 (session structure) and Table 5 (single-session estimates now described as chatbot-delivered, with a pointer to the SSI syntheses). The 15-30 minute wording is unchanged pending the hand check under #26. | References checked online (24 Nov): Schleider & Weisz 2017, Schleider et al. 2020 and 2025 correct; Shroff et al. 2023 second author corrected to Chantelle Roulston in v2."
+73,Holly Bear,Positive / noted,Low,No change,Reviewer comment needs no revision
+74,Isabelle Amazon-Brown,Evidence / strength of claims,Medium,Held - to check/decide,SL agreed to a text box; Mitsea source and eligibility checks; box not drafted
+75,Holly Bear,Methods,Medium,Applied - partly,"v2: 3.3 no longer says guidance records ""require manual verification""; residual-error caveat in Limitations. Not changed: ""keyword-classified"" counts sentence and proposed dagger marking in 2.3."
+76,Holly Bear,Positive / noted,Low,No change,Reviewer comment needs no revision
+77,Holly Bear,Structure,Medium,Held - to check/decide,Structural move of 4.1 into Discussion; recommend after tracked changes are accepted
+78,Karina Rios Michel,Clarity / wording,Low,Applied,"Revised (tracked), tracker #78: definition and examples of low-threshold entry added to Section 4.1, with the citations SL retrieved from the dataset (Humphries 2026; Bragazzi 2023; Kang 2023; Kuo 2026; Hasei 2025; Dinesh 2024; Iglesias 2023)."
+79,Sharp Admin,Positive / noted,Low,No change,SL: do not add (no supporting record)
+80,Sharp Admin,Evidence / strength of claims,Medium,Held - to check/decide,Needs extraction (ages/estimates of 13 single-session records)
+81,Holly Bear,Evidence / strength of claims,High,Held - to check/decide,"Needs extraction (design split, medians)"
+82,Isabelle Amazon-Brown,Clarity / wording,Medium,Held - to check/decide,SL: needs proper citation for small/moderate interpretation
+83,Sharp Admin,Editorial,Low,Applied,"Revised (tracked), tracker #83: 'thin' changed to 'limited', the duplicated sentence removed, and matching wording fixed in 4.2 Evidence base and Gaps."
+84,Sharp Admin,Editorial,Medium,Applied,"Revised (tracked), tracker #84: 'symptoms' added where depression and anxiety refer to measured outcomes (Key messages, executive summary, 1.1, 4.1, 4.2, 4.3, Tables 3-5). SL confirmed that no included primary study used a diagnostic outcome. Titles, named reviews and condition names (e.g. 'perinatal depression deployment') unchanged."
+85,Isabelle Amazon-Brown,Evidence / strength of claims,Medium,No change,SL: keep internal
+86,Sharp Admin,Editorial,Low,Held - to check/decide,Count orange follow-up rows in Figure 4
+87,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+88,Isabelle Amazon-Brown,Evidence / strength of claims,Medium,Held - to check/decide,Confirm attrition figures are mostly multi-session
+89,Alex Fulcher,GE design input,Low,No change,Reviewer comment needs no revision
+90,Isabelle Amazon-Brown,Positive / noted,Low,No change,Reviewer comment needs no revision
+91,Sharp Admin,Positive / noted,Low,No change,Reviewer comment needs no revision
+92,Isabelle Amazon-Brown,GE design input,Low,Applied,"Revised (tracked), tracker #92: the Sinha et al. 2024 figure in 4.2 now notes it comes from retrospective log data on a multi-session on-demand deployment, consistent with Table 4."
+93,Holly Bear,Structure,Medium,Held - to check/decide,Team to choose illustrative examples
+94,Isabelle Amazon-Brown,Clarity / definition,Low,Applied,"Revised (tracked), tracker #94: the last sentence of 'Variation' now explains what formal moderator tests are."
+95,Isabelle Amazon-Brown,Clarity / wording,Medium,Applied,"Revised (tracked), tracker #95: the first sentence of 4.2 'Implications for MHAA' rewritten in plain language (MDE, youth estimate, chatbot-delivered single-session estimates, and the sample-size recalculation)."
+96,Isabelle Amazon-Brown,Clarity / wording,Medium,Held - to check/decide,35% allowance and Table 5 'Retain 35' to confirm with evaluation team
+97,Alex Fulcher,GE design input,Low,Applied,"Revised (tracked), tracker #97: the Table 4 'Consent and onboarding' row now recommends short onboarding that collects only minimal information, with the rationale; the 4.2 drop-off sentence now says 'keep onboarding and sessions short'."
+98,Isabelle Amazon-Brown,Positive / noted,Low,No change,Reviewer comment needs no revision
+99,Sharp Admin,Evidence / strength of claims,Medium,Held - to check/decide,Check what Jabir et al. 2024 reports on human involvement
+100,Amalia Villa Gomez,GE internal,Medium,No change,GE internal
+101,Amalia Villa Gomez,GE internal,Low,No change,GE internal
+102,Karina Rios Michel,Clarity / definition,Medium,Held - to check/decide,Confirm each trial's comparator
+103,Isabelle Amazon-Brown,Clarity / wording,Low,Applied,"Revised (tracked), tracker #103: the 4.3 comparative-studies sentence now explains what 'complete packages rather than isolated features' means."
+104,Karina Rios Michel,Clarity / definition,Medium,Held - to check/decide,Check Kuta et al. 2026 arm set-up
+105,Amalia Villa Gomez,Clarity / definition,Medium,Held - to check/decide,Insert Kuta et al. completion definition
+106,Isabelle Amazon-Brown,Positive / noted,Low,No change,Reviewer comment needs no revision
+107,Sharp Admin,Reference suggested,Low,Held - to check/decide,Read the suggested paper first
+108,Amalia Villa Gomez,Evidence / strength of claims,Medium,Held - to check/decide,Check Humphries participants' home language; GE language position
+109,Isabelle Amazon-Brown,Positive / noted,Low,No change,Reviewer comment needs no revision
+110,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+111,Sharp Admin,Evidence / strength of claims,Medium,Held - to check/decide,Bracketed examples to confirm; Wang 2025a/b to disambiguate
+112,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+113,Sharp Admin,Positive / noted,Low,Held - to check/decide,See #114: held for the age-framing decision (consent wording)
+114,Alex Fulcher,Scope / population,Medium,Held - to check/decide,Age framing (consent wording)
+115,Karina Rios Michel,Evidence / strength of claims,Medium,Held - to check/decide,Confirm Zuri/trials were multi-session; 35% definition
+116,Isabelle Amazon-Brown,For discussion,Medium,Held - to check/decide,Agree retention definitions and subgroups with GE/evaluation team
+117,Isabelle Amazon-Brown,Evidence / strength of claims,Low,Applied - partly,"Revised (tracked), tracker #117: the 4.4 Gaps sentence now explains the overlap with MHAA's 18-24 users and why the Humphries sample may not transfer. The matching 4.7 change ('rather than adolescents aged 10-19') is held because it depends on the age-framing decision."
+118,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+119,Amalia Villa Gomez,Evidence / strength of claims,Medium,Held - to check/decide,Check how Wu/Vogt assessed dependence/delayed help-seeking
+120,Isabelle Amazon-Brown,Positive / noted,Low,No change,Reviewer comment needs no revision
+121,Amalia Villa Gomez,Positive / noted,Low,No change,Reviewer comment needs no revision
+122,Isabelle Amazon-Brown,Positive / noted,Low,No change,Reviewer comment needs no revision
+123,Sharp Admin,Clarity / wording,Medium,Held - to check/decide,Retrieve primary study behind 'two of 25'
+124,Sharp Admin,Evidence / strength of claims,High,Held - to check/decide,Tessa source check
+125,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+126,Sharp Admin,Safeguarding,Medium,Held - to check/decide,SL: check dataset before broadening beyond suicide/self-harm
+127,Amalia Villa Gomez,Safeguarding,Medium,No change,Reviewer comment needs no revision
+128,Sharp Admin,Positive / noted,Low,No change,Reviewer comment needs no revision
+129,Sharp Admin,Evidence / strength of claims,Low,Held - to check/decide,Recalculate Figure 9 counts
+130,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+131,Alex Fulcher,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+132,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,Held - to check/decide,Check Prochaska source (98% accuracy vs 97%/99%)
+133,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+134,Amalia Villa Gomez,Clarity / wording,Medium,Held - to check/decide,Confirm R7 psychometric review plans
+135,Isabelle Amazon-Brown,GE benchmark / opportunity,Low,No change,Reviewer comment needs no revision
+136,Amalia Villa Gomez,Editorial,Low,Applied,"Revised (tracked), tracker #136: double negative removed in 4.7."
+137,Sharp Admin,Positive / noted,Low,Applied,"Revised (tracked), tracker #137: the 4.7 voice sentence now also mentions other input formats such as images. The language sentence in the same paragraph is unchanged pending GE's language position."
+138,Sharp Admin,Evidence / strength of claims,Medium,Held - to check/decide,Check Heinz et al. 2025 details; add reference
+139,Amalia Villa Gomez,Clarity / definition,Low,Held - to check/decide,Check Greer/Stephens sources
+140,Amalia Villa Gomez,Safeguarding,Medium,Held - to check/decide,GE to confirm guideline owner; fix Xu/Xue
+141,Amalia Villa Gomez,Positive / noted,Low,No change,Reviewer comment needs no revision
+142,Sharp Admin,Positive / noted,Low,No change,Reviewer comment needs no revision
+143,Sharp Admin,Evidence / strength of claims,Medium,Applied,"Revised (tracked), tracker #143: 4.8 now presents late-night use as a pattern with two possible explanations (peak distress or more free time) in the Direct answer, Key findings and Implications."
+144,Amalia Villa Gomez,Clarity / wording,Medium,Held - to check/decide,Tessa source check; check against MHAA protocol
+145,Holly Bear,Methods,High,Held - to check/decide,Produce tables; reconcile 319/307/325 totals
+146,Holly Bear,Editorial,Low,Applied - partly,"Revised (tracked), tracker #146: opening sentence of 5.1 reworded. The rest of the #147 paragraph rewrite is held pending the Rollwage et al. 2024 full-text check."
+147,Holly Bear,Clarity / wording,Medium,Held - to check/decide,Rollwage et al. 2024 full-text check (#146 applied)
+148,Holly Bear,Evidence / strength of claims,High,Applied,"Revised (tracked), tracker #148: 'binding constraint' softened in 5.1 and the executive summary; the 5.1 safeguarding sentence now reads 'had the least evidence of implementation and performance across streams'."
+149,Amalia Villa Gomez,Clarity / definition,Medium,Held - to check/decide,Kuta et al. completion definition
+150,Sharp Admin,Evidence / strength of claims,High,Held - to check/decide,"Tessa, Heinz and Woebot checks"
+151,Amalia Villa Gomez,Clarity / wording,Medium,Applied - partly,"Revised (tracked), tracker #151: 'active ingredient' defined at first use in the executive summary; 'Lock ... anchored on' rephrased to 'Start from ... built around' (SL) in the executive summary and Tables 1, 3 and 4. Reframing vs restructuring is not harmonized yet, and the choice of skill (#152) is an open MHAA decision."
+152,Sharp Admin,MHAA decision,High,Held - to check/decide,MHAA decision on candidate skill(s)
+153,Sharp Admin,Positive / noted,Low,No change,Reviewer comment needs no revision
+154,Sharp Admin,Methods,Medium,Applied,"Revised (tracked), tracker #154: qualitative data collection added to Table 3 (Pilot outcomes and measures) and Table 5 (Qualitative component)."
+155,Holly Bear,Evidence / strength of claims,High,Held - to check/decide,Compute [N] GenAI + single-session records; directness ratings
+156,Alex Fulcher,MHAA decision,High,Held - to check/decide,SL: MHAA decisions should not revise dataset-derived wording
+157,Sharp Admin,Methods,Medium,Held - to check/decide,Evaluation-design decision (comparator)
+158,Sharp Admin,Safeguarding,Medium,Held - to check/decide,SL disagrees with proposed text; use SL's wording only if dataset supports it
+159,Sharp Admin,Positive / noted,Low,Applied,"Revised (tracked), tracker #159: the Conclusions now name component testing and explain it."
+160,Sharp Admin,Safeguarding,High,Held - to check/decide,Confirm suicide/self-harm focus across safety stream (see #126)
+161,Sharp Admin,Positive / noted,Low,Held - to check/decide,SL: find supporting dataset citations first
+162,Sharp Admin,Reference suggested,Medium,Held - to check/decide,SL: include the RCT - needs extraction and dataset update
