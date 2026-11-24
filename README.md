@@ -23,6 +23,7 @@ preliminary report stands, what has been decided, and what is still open.
 - Never overwrite a report version. Save a new versioned copy (v3, v4…) and edit that.
 - Make report changes as tracked changes, and reply in the relevant reviewer comment thread saying which tracker # the change addresses.
 - Do not apply a "Held" item from the log until its check is done or SL has signed it off.
+- When an item is resolved, write its **final response to the reviewer** (past tense: what changed and why) in two places that must match: the Responses doc ("Final response to reviewer:" under the entry's status line, with the earlier text relabelled "Draft response (superseded):") and the tracker CSV column "Final response to reviewer". Internal notes go in "What was done / why held".
 - Always refer to comments by **tracker number** (1–162, from the responses document and the CSV log). Every Claude reply in the report starts with "tracker #N". Word's internal comment IDs are not shown in Word and change every time the file is saved, so the "see #N" comment-ID cross-references in the original tracker spreadsheet (column K) no longer point to the right comments.
 
 ## Decisions already made by SL (do not reopen)
@@ -49,7 +50,7 @@ preliminary report stands, what has been decided, and what is still open.
 3. **Eligibility table (#61) not inserted.** Its draft exclusion "AI tools used only for diagnosis or prediction" conflicts with included records (e.g. depression-screening chatbot reviews). Other bracketed cells are unconfirmed.
 4. **Moving Section 4.1 into the Discussion (#77)** has not been done. Easier after the tracked changes are accepted. All section numbers and cross-references then shift.
 5. **Technical Appendix (Annex B, "Sensitivity of downstream numbers")** still says the MDE and 35% attrition assumption "will be revised when … extractions are complete". This conflicts with the report being final; not yet changed.
-6. **Section 3.3** still reports "87 records were keyword-classified as GenAI-specific…". SL wants no "provisional" language. Decide how to describe these counts (#75).
+6. ~~Section 3.3 keyword-classified counts (#75)~~ Resolved 25 Nov: verification is complete at this stage, so the main text no longer says counts were "keyword-classified" or "automatically identified".
 7. **"Preliminary" status.** The title and Section 1.4 still call this a preliminary report. Confirm whether that stays in the final version.
 8. **References to check:** Schleider et al. 2025 has no volume page range yet; Ali et al. 2025 is cited in 1.1 but appears to be missing from the reference list; the protocol (Sempe et al. 2026) is not in the reference list, and SL queried whether it was registered on OSF (#11).
 9. **Refresh fields** (table of contents, list of tables) in Word after accepting changes.
