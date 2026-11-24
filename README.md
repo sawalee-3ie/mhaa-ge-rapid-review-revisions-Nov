@@ -34,6 +34,7 @@ preliminary report stands, what has been decided, and what is still open.
 - **Protocol citation** is Sempe et al. 2026 (not Lucas et al.).
 - **Protocol deviations to report:** citation tracking not done; active-learning stopping explored but target recall not reached, so all titles/abstracts screened manually. LLM calibration thresholds and values achieved should also be reported (details still needed).
 - **No top-up search.** There are no resources for one; do not offer it to reviewers.
+- **Kuta et al. 2026 (#104, #105, #149, checked 25 Nov against the paper in `Dataset/Kuta et al. 2026.pdf`):** the ChatGPT arm had no therapeutic prompt but users were asked to use it like a therapy chatbot; the structured arm was a generative AI app delivering solution-focused brief therapy; completion (all nine sessions: 39% vs 62%) was app-logged session starts in one arm and weekly self-reports in the other. Applied in 4.3 and 5.1.
 - **Route of broader digital evidence (#69, checked 24 Nov):** it entered mainly through reviews and overviews that covered chatbots alongside other digital tools; 310 of 319 records involve conversational agents. Applied in v3 (1.1, abstract Methods, 2.2). The dataset does not record which search each record came from, so this is inferred from design and intervention fields.
 - **18–24 evidence (24 Nov):** reported in the report using the new `focus_18_24` flag: 151 records (47.3%) overlap ages 18–24, but only 15 (4.7%) primary studies focus on them (10 student samples, 8 GenAI, 8 US, 1 SSA, none South African). Applied in v3 for #8, #15, #34, #53, #62, #70, #71, #80, #113, #114, #117. If the 15 changes, these figures appear in the abstract, executive summary, 3.2 (text and table), 4.1 and Table 4.
 - **Age framing (final for now, SL 25 Nov):** the review broadened to the WHO age range (10–24) to capture transferable findings while focusing on MHAA's age group (18–24) where possible; not called a protocol deviation. Applied in v3. Girl Effect will review it later.
@@ -59,7 +60,7 @@ preliminary report stands, what has been decided, and what is still open.
 ## Held items needing outside input
 
 - **Girl Effect:** language position (#21, #42, #49, #108, #137, #156), later review of the age framing (already applied), how Girl Effect and MHAA are described (#1, #5, #7, #9, #32), MHAA design and evaluation choices (#45, #96, #152, #157).
-- **Source checks:** Tessa (JMIR 2023;25:e50696; #29, #41, #124, #144, #150), Kuta et al. 2026 completion definition (#104, #105, #149), Heinz et al. 2025 (#138), Rollwage et al. 2024 (#147), 85% treatment-gap source (#2, #51).
+- **Source checks:** Tessa (JMIR 2023;25:e50696; #29, #41, #124, #144, #150), Heinz et al. 2025 (#138), Rollwage et al. 2024 (#147), 85% treatment-gap source (#2, #51).
 - **Dataset or extraction work:** #16, #26, #33, #81, #86, #88, #126, #155, #158, #160, #161, #162.
 
 See the CSV log for the full list and the reason for each.
