@@ -1,0 +1,5 @@
+# Full-text papers: keep local (licence restrictions); cite by DOI instead
+*.pdf
+
+# Word/Excel temporary lock files
+~$*
