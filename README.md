@@ -11,9 +11,12 @@ preliminary report stands, what has been decided, and what is still open.
 | `Archive/GE-Rapid_review-Preliminary_report with comments Oct 2026 SP 1.docx` | Original draft with reviewer comments. Do not edit. (v1 of the tracked revisions was superseded by v2 and removed.) |
 | `GE_RR_Responses_to_reviewers Nov-24-2026_pending-first.docx` | **Use this one.** Same responses, reordered: Part A lists the 95 items still pending (a check or decision needed), Part B the 67 resolved ones. Each entry has a status line from the revision log. |
 | `Archive/GE_RR_Responses_to_reviewers Nov-24-2026.docx` | Earlier version of the responses, in report order, with SL's notes (tracked insertions by Sanghwa Lee). Superseded by the pending-first version. (Report v1 and v2 were superseded by v3 and removed; v2's Figure 1 drawing data was corrupted.) |
-| `RR_tracked_revision_log_Nov-24-2026.csv` | **Status of every tracker item** (Applied / Applied – partly / Held / No change) and why. Start here to find what is left. |
+| `RR_tracked_revision_log_Nov-24-2026.csv` | **The tracker.** Status of every tracker item (Applied / Applied – partly / Held / No change) and why, sorted pending first. Start here to find what is left. |
 
 `Dataset/` holds the extraction workbook and the section analysis scripts (R).
+
+- `extraction_final-revised-SL_n=319 (6 are linked from 325)_v2_focus18-24.xlsx` is the **current dataset**: identical to the original workbook except for two new columns in `baseline`, right after `base.5 value`: `base.5 focus_18_24` (Yes / Unclear (not counted) / No / Not reported) and `base.5 focus_18_24 basis`, plus a matching Codebook row. The R scripts still read the original filename.
+- `maps_18_24` (inside `base.5 value`) marks any **overlap** with ages 18–24 (151 records). `focus_18_24` = Yes marks studies **mainly about** ages 18–24: most participants aged about 18–24, judged from the reported age range, mean or median age (15 records, checked by SL on 25 Nov). Four university-student records with no ages reported are "Unclear (not counted)".
 
 ## Working rules
 
@@ -31,8 +34,8 @@ preliminary report stands, what has been decided, and what is still open.
 - **Protocol deviations to report:** citation tracking not done; active-learning stopping explored but target recall not reached, so all titles/abstracts screened manually. LLM calibration thresholds and values achieved should also be reported (details still needed).
 - **No top-up search.** There are no resources for one; do not offer it to reviewers.
 - **Route of broader digital evidence (#69, checked 24 Nov):** it entered mainly through reviews and overviews that covered chatbots alongside other digital tools; 310 of 319 records involve conversational agents. Applied in v3 (1.1, abstract Methods, 2.2). The dataset does not record which search each record came from, so this is inferred from design and intervention fields.
-- **No 18–24 subgroup coding exists in the dataset.** Responses that promise 18–24 counts (#15, #34, #53, #62, #70, #71, #80) need redrafting.
-- **Age framing:** SL prefers "we broadened the age group following the WHO classification to capture transferable findings, and focused on the MHAA age group where possible", rather than calling it a protocol deviation. Still to agree with Girl Effect.
+- **18–24 evidence (24 Nov):** reported in the report using the new `focus_18_24` flag: 151 records (47.3%) overlap ages 18–24, but only 15 (4.7%) primary studies focus on them (10 student samples, 8 GenAI, 8 US, 1 SSA, none South African). Applied in v3 for #8, #15, #34, #53, #62, #70, #71, #80, #113, #114, #117. If the 15 changes, these figures appear in the abstract, executive summary, 3.2 (text and table), 4.1 and Table 4.
+- **Age framing (final for now, SL 25 Nov):** the review broadened to the WHO age range (10–24) to capture transferable findings while focusing on MHAA's age group (18–24) where possible; not called a protocol deviation. Applied in v3. Girl Effect will review it later.
 - **MHAA decisions made after this review** (e.g. Girl Effect's language position) should not change wording that reports what the dataset found (#156).
 - **Not added:** #79 (regulatory-incentive sentence; no supporting record); #85 kept internal.
 - **References:** Schleider and Weisz 2017 and Schleider et al. 2025 are both correct for the single-session evidence (#72). Sharp et al. 2026 (JEM, published 20 July 2026) is after the search date, so it is cited as context, not as an included study.
@@ -54,9 +57,9 @@ preliminary report stands, what has been decided, and what is still open.
 
 ## Held items needing outside input
 
-- **Girl Effect:** language position (#21, #42, #49, #108, #137, #156), age framing, how Girl Effect and MHAA are described (#1, #5, #7, #9, #32), MHAA design and evaluation choices (#45, #96, #152, #157).
+- **Girl Effect:** language position (#21, #42, #49, #108, #137, #156), later review of the age framing (already applied), how Girl Effect and MHAA are described (#1, #5, #7, #9, #32), MHAA design and evaluation choices (#45, #96, #152, #157).
 - **Source checks:** Tessa (JMIR 2023;25:e50696; #29, #41, #124, #144, #150), Kuta et al. 2026 completion definition (#104, #105, #149), Heinz et al. 2025 (#138), Rollwage et al. 2024 (#147), 85% treatment-gap source (#2, #51).
-- **Dataset or extraction work:** #16, #26, #33, #80, #81, #86, #88, #126, #155, #158, #160, #161, #162.
+- **Dataset or extraction work:** #16, #26, #33, #81, #86, #88, #126, #155, #158, #160, #161, #162.
 
 See the CSV log for the full list and the reason for each.
 
