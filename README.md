@@ -7,16 +7,18 @@ preliminary report stands, what has been decided, and what is still open.
 
 | File | What it is |
 |---|---|
-| `GE-Rapid_review-Preliminary_report Nov 2026 SL_tracked revisions v3.docx` | **Current working version.** Reviewer-driven revisions as tracked changes (author "Claude"), with replies in the reviewer comment threads (prefixed "[Claude, for SL]"). Same as v2 except Figure 1 (PRISMA diagram) is repaired. |
+| `GE-Rapid_review-Preliminary_report Nov 2026 SL_tracked revisions v7.docx` | **Current working version.** Reviewer-driven revisions as tracked changes (author "Claude"), with replies in the reviewer comment threads (prefixed "[Claude, for SL]"). v7 = v3 plus the Sharp et al. 2025a ED ESSI RCT (#162): counts, single-session wording, comparisons, short findings and the reference. Built from v3 by script. |
+| `Archive/GE-Rapid_review-Preliminary_report Nov 2026 SL_tracked revisions v3.docx` … `v6.docx` | Earlier tracked versions. v3 is the base for v7; v4–v6 were intermediate builds of the #162 changes (superseded). |
 | `Archive/GE-Rapid_review-Preliminary_report with comments Oct 2026 SP 1.docx` | Original draft with reviewer comments. Do not edit. (v1 of the tracked revisions was superseded by v2 and removed.) |
-| `GE_RR_Responses_to_reviewers Nov-24-2026_pending-first.docx` | **Use this one.** Same responses, reordered: Part A lists the 95 items still pending (a check or decision needed), Part B the 67 resolved ones. Each entry has a status line from the revision log. |
+| `GE_RR_Responses_to_reviewers Nov-24-2026_pending-first.docx` | **Use this one.** Same responses, reordered: Part A lists the items still pending (a check or decision needed), Part B the resolved ones (counts in the Part headings). Each entry has a status line from the revision log. |
 | `Archive/GE_RR_Responses_to_reviewers Nov-24-2026.docx` | Earlier version of the responses, in report order, with SL's notes (tracked insertions by Sanghwa Lee). Superseded by the pending-first version. (Report v1 and v2 were superseded by v3 and removed; v2's Figure 1 drawing data was corrupted.) |
 | `RR_tracked_revision_log_Nov-24-2026.csv` | **The tracker.** Status of every tracker item (Applied / Applied – partly / Held / No change) and why, sorted pending first. Start here to find what is left. |
 
-`Dataset/` holds the extraction workbook and the section analysis scripts (R).
+`Dataset/` holds the extraction workbook; earlier workbooks, the section analysis scripts (R) and full-text PDFs are in `Dataset/Archive/`.
 
-- `extraction_final-revised-SL_n=319 (6 are linked from 325)_v2_focus18-24.xlsx` is the **current dataset**: identical to the original workbook except for two new columns in `baseline`, right after `base.5 value`: `base.5 focus_18_24` (Yes / Unclear (not counted) / No / Not reported) and `base.5 focus_18_24 basis`, plus a matching Codebook row. The R scripts still read the original filename.
-- `maps_18_24` (inside `base.5 value`) marks any **overlap** with ages 18–24 (151 records). `focus_18_24` = Yes marks studies **mainly about** ages 18–24: most participants aged about 18–24, judged from the reported age range, mean or median age (15 records, checked by SL on 25 Nov). Four university-student records with no ages reported are "Unclear (not counted)".
+- `extraction_final-revised-SL_n=320 (6 are linked from 326)_v6_ESSI-RCT-1b3-cleared.xlsx` is the **current dataset**. It is v2 (`focus_18_24` columns in `baseline`, right after `base.5 value`, plus a Codebook row) with the Sharp et al. 2025a ED ESSI RCT added as record `ESSIRCT1` (EPPI 130138323), and 1b.3 (BEST) cleared for ESSIRCT1 and SW62FV8M (see #162 below). The R scripts still read the original filename.
+- `ESSI_RCT_extraction_check v3 SL comments (tracker 162).xlsx` is SL's field-by-field verification of ESSIRCT1. `MHAA_extraction_framework-v1.docx` defines the extraction fields.
+- `maps_18_24` (inside `base.5 value`) marks any **overlap** with ages 18–24 (152 records). `focus_18_24` = Yes marks studies **mainly about** ages 18–24: most participants aged about 18–24, judged from the reported age range, mean or median age (15 records, checked by SL on 25 Nov). Four university-student records with no ages reported are "Unclear (not counted)".
 
 ## Working rules
 
@@ -37,13 +39,19 @@ preliminary report stands, what has been decided, and what is still open.
 - **Kuta et al. 2026 (#104, #105, #149, checked 25 Nov against the paper in `Dataset/Kuta et al. 2026.pdf`):** the ChatGPT arm had no therapeutic prompt but users were asked to use it like a therapy chatbot; the structured arm was a generative AI app delivering solution-focused brief therapy; completion (all nine sessions: 39% vs 62%) was app-logged session starts in one arm and weekly self-reports in the other. Applied in 4.3 and 5.1.
 - **Tessa (#29, #41, #124 resolved; Tessa parts of #144, #150 applied, 25 Nov):** Sharp et al. 2023 (JMIR 25:e50696) report Tessa was described as rule-based but included a proprietary AI algorithm, and suggest this and software upgrades were likely factors; the sequence of events is not documented, so the report does not say AI was added after deployment. The full account is told once, in 4.5; other sections point to it.
 - **Route of broader digital evidence (#69, checked 24 Nov):** it entered mainly through reviews and overviews that covered chatbots alongside other digital tools; 310 of 319 records involve conversational agents. Applied in v3 (1.1, abstract Methods, 2.2). The dataset does not record which search each record came from, so this is inferred from design and intervention fields.
-- **18–24 evidence (24 Nov):** reported in the report using the new `focus_18_24` flag: 151 records (47.3%) overlap ages 18–24, but only 15 (4.7%) primary studies focus on them (10 student samples, 8 GenAI, 8 US, 1 SSA, none South African). Applied in v3 for #8, #15, #34, #53, #62, #70, #71, #80, #113, #114, #117. If the 15 changes, these figures appear in the abstract, executive summary, 3.2 (text and table), 4.1 and Table 4.
+- **18–24 evidence (24 Nov; overlap count updated for #162 on 26 Nov):** reported in the report using the new `focus_18_24` flag: 152 records (47.5%) overlap ages 18–24, but only 15 (4.7%) primary studies focus on them (10 student samples, 8 GenAI, 8 US, 1 SSA, none South African). Applied in v3 for #8, #15, #34, #53, #62, #70, #71, #80, #113, #114, #117. If the 15 changes, these figures appear in the abstract, executive summary, 3.2 (text and table), 4.1 and Table 4.
 - **Age framing (final for now, SL 25 Nov):** the review broadened to the WHO age range (10–24) to capture transferable findings while focusing on MHAA's age group (18–24) where possible; not called a protocol deviation. Applied in v3. Girl Effect will review it later.
 - **MHAA decisions made after this review** (e.g. Girl Effect's language position) should not change wording that reports what the dataset found (#156).
 - **Not added:** #79 (regulatory-incentive sentence; no supporting record); #85 kept internal.
 - **References:** Schleider and Weisz 2017 and Schleider et al. 2025 are both correct for the single-session evidence (#72). Sharp et al. 2026 (JEM, published 20 July 2026) is after the search date, so it is cited as context, not as an included study.
 - **#84:** no included primary study used a diagnostic outcome, so "symptoms" wording is correct.
-- **#162:** SL wants the Sharp et al. 2025 ED ESSI RCT included (EPPI ID 130138323, excluded at title/abstract). This needs extraction and updates to the dataset and counts.
+- **#162 (resolved 26 Nov):** the Sharp et al. 2025 ED ESSI RCT (EPPI 130138323, excluded at title/abstract by human reviewers) is now included as `ESSIRCT1`, verified by SL against the extraction framework. Decisions:
+  - Not linked to the co-design paper SW62FV8M (same intervention, different study), so both are counted: 320 studies, 326 reports.
+  - Report counts: add 1 only where this study applies, starting from the report's own numbers (some report figures were edited by hand, so do not re-derive them from the dataset or R scripts); recalculate percentages over 320. Do not mention the addition in the report text (no "reinstated" sentence).
+  - Citations: the RCT is Sharp et al. 2025a, the co-design paper 2025b.
+  - 1b.3 (BEST) left blank for ESSIRCT1 and SW62FV8M: the co-design paper links the chatbot to Schleider et al.'s framework only in its Discussion, so it is not known whether the framework was used at the design stage. The report does not mention it.
+  - Its information-sheet control counts as a minimal control; 3.3 and Table 5 now say "active, minimal (e.g. information-only) or usual-care comparators" (20).
+  - Not recalculated: the 4.2 medians (effect magnitude 0.47 across 60 records; uptake 68% across 50; completion 69% across 67) and the durability split (12/11/6), which need the underlying values.
 
 ## Open points to check before finalising
 
@@ -62,7 +70,7 @@ preliminary report stands, what has been decided, and what is still open.
 
 - **Girl Effect:** language position (#21, #42, #49, #108, #137, #156), later review of the age framing (already applied), how Girl Effect and MHAA are described (#1, #5, #7, #9, #32), MHAA design and evaluation choices (#45, #96, #152, #157).
 - **Source checks:** Heinz et al. 2025 (#138), Rollwage et al. 2024 (#147), 85% treatment-gap source (#2, #51).
-- **Dataset or extraction work:** #16, #26, #33, #81, #86, #88, #155, #158, #161, #162.
+- **Dataset or extraction work:** #16, #26, #33, #81, #86, #88, #155, #158, #161.
 
 See the CSV log for the full list and the reason for each.
 
