@@ -7,7 +7,8 @@ preliminary report stands, what has been decided, and what is still open.
 
 | File | What it is |
 |---|---|
-| `GE-Rapid_review-Preliminary_report Nov 2026 SL_tracked revisions v8.docx` | **Current working version.** Reviewer-driven revisions as tracked changes (author "SL"), with replies in the reviewer comment threads (author "SL", each naming its tracker #). v8 = v7 with the author renamed from "Claude" to "SL" and the "[Claude, for SL]" prefix removed from the replies; content otherwise identical. v7 = v3 plus the Sharp et al. 2025a ED ESSI RCT (#162): counts, single-session wording, comparisons, short findings and the reference. |
+| `GE-Rapid_review-Preliminary_report Nov 2026 SL_tracked revisions v9.docx` | **Current working version.** Reviewer-driven revisions as tracked changes (author "SL"), with replies in the reviewer comment threads (author "SL", each naming its tracker #). v9 = v8 as saved by SL in Word on 27 Nov (title-page date changed to November 2026; some tracked changes accepted or rejected) plus #2 (abstract Background rewritten following Holly's suggestion) and #51 (treatment-gap figure from the primary source, Demyttenaere et al. 2004). |
+| `GE-Rapid_review-Preliminary_report Nov 2026 SL_tracked revisions v8.docx` | Previous version. v8 = v7 with the author renamed from "Claude" to "SL" and the "[Claude, for SL]" prefix removed from the replies; content otherwise identical. v7 = v3 plus the Sharp et al. 2025a ED ESSI RCT (#162): counts, single-session wording, comparisons, short findings and the reference. |
 | Earlier versions v3–v7 | Removed from the folder by SL on 26 Nov; still in git history (v3–v7 at commit `b6d22ea`). v7 had the same content as v8 with author "Claude" and the "[Claude, for SL]" prefix; v3 was the base the #162 changes were built on; v4–v6 were intermediate builds. |
 | `Archive/GE-Rapid_review-Preliminary_report with comments Oct 2026 SP 1.docx` | Original draft with reviewer comments. Do not edit. (v1 of the tracked revisions was superseded by v2 and removed.) |
 | `GE_RR_Responses_to_reviewers Nov-24-2026_pending-first.docx` | **Use this one.** Same responses, reordered: Part A lists the items still pending (a check or decision needed), Part B the resolved ones (counts in the Part headings). Each entry has a status line from the revision log. |
@@ -45,6 +46,7 @@ preliminary report stands, what has been decided, and what is still open.
 - **Not added:** #79 (regulatory-incentive sentence; no supporting record); #85 kept internal.
 - **References:** Schleider and Weisz 2017 and Schleider et al. 2025 are both correct for the single-session evidence (#72). Sharp et al. 2026 (JEM, published 20 July 2026) is after the search date, so it is cited as context, not as an included study.
 - **#84:** no included primary study used a diagnostic outcome, so "symptoms" wording is correct.
+- **Treatment gap (#2, #51, resolved 27 Nov):** the "85%" came via Abd-Alrazaq et al. 2019 (p.2: "do not reach about 55% and 85% of people in developed and developing countries"), citing Anthes 2016 (a Nature news feature), citing WHO. The primary source is Demyttenaere et al. 2004 (WHO World Mental Health Surveys, JAMA 291:2581–2590): 76.3–85.4% of serious cases in less-developed countries and 35.5–50.3% in developed countries received no treatment in the previous 12 months (14 countries, 2001–2003, not South Africa). The report now gives the 76–85% range for serious mental disorders and cites Demyttenaere; Abd-Alrazaq 2019 is kept only for the chatbot point. Its DOI (10.1001/jama.291.21.2581) and issue number are not printed in the PDF: confirm before circulating. The abstract Background was rewritten following Holly's suggestion, keeping the original sentences where they fit; it includes the #3 clause on informal use of general-purpose GenAI.
 - **#162 (resolved 26 Nov):** the Sharp et al. 2025 ED ESSI RCT (EPPI 130138323, excluded at title/abstract by human reviewers) is now included as `ESSIRCT1`, verified by SL against the extraction framework. Decisions:
   - Not linked to the co-design paper SW62FV8M (same intervention, different study), so both are counted: 320 studies, 326 reports.
   - Report counts: add 1 only where this study applies, starting from the report's own numbers (some report figures were edited by hand, so do not re-derive them from the dataset or R scripts); recalculate percentages over 320. Do not mention the addition in the report text (no "reinstated" sentence).
@@ -69,7 +71,7 @@ preliminary report stands, what has been decided, and what is still open.
 ## Held items needing outside input
 
 - **Girl Effect:** language position (#21, #42, #49, #108, #137, #156), later review of the age framing (already applied), how Girl Effect and MHAA are described (#1, #5, #7, #9, #32), MHAA design and evaluation choices (#45, #96, #152, #157).
-- **Source checks:** Heinz et al. 2025 (#138), Rollwage et al. 2024 (#147), 85% treatment-gap source (#2, #51).
+- **Source checks:** Heinz et al. 2025 (#138), Rollwage et al. 2024 (#147). (The 85% treatment-gap source, #2 and #51, was resolved on 27 Nov: see Decisions.)
 - **Dataset or extraction work:** #16, #26, #33, #81, #86, #88, #155, #158, #161.
 
 See the CSV log for the full list and the reason for each.
